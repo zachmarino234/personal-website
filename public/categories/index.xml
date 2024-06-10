@@ -22,6 +22,22 @@
         <guid>http://localhost:1313/categories/testing/</guid>
         <description></description>
         </item>
+        <item>
+        <title>Art</title>
+        <link>http://localhost:1313/categories/art/</link>
+        <pubDate>Mon, 01 May 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/categories/art/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Code</title>
+        <link>http://localhost:1313/categories/code/</link>
+        <pubDate>Mon, 01 May 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/categories/code/</guid>
+        <description></description>
+        </item>
         
     </channel>
 </rss>

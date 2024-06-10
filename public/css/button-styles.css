@@ -1,0 +1,27 @@
+/* static/css/button-styles.css */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+    background-color: #ececec;
+    border: none;
+    border-radius: 6px;
+    transition: background-color 0.3s;
+  }
+  
+  .btn:hover {
+    background-color: #700070;
+  }
+  
+  .btn-primary {
+    background-color: #ececec;
+  }
+  
+  .btn-primary:hover {
+    background-color: #700070;
+  }
+  

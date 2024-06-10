@@ -1,34 +1,22 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
 aliases:
-  - about-us
-  - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
 menu:
     main: 
         weight: -90
         params:
             icon: user
+links:
+  - title: Resume
+    description: Click here to view my resume!
+    website: https://drive.google.com/file/d/1GzWDIGEZdS3es2BlzK6r4KvExaxSnD9P/view?usp=sharing
+    image: file.svg
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Zach Marino is a second-year Computer Science and Design combined major at Northeastern University. He currently works on the Project Management team at The Boston Globe, where he contributes to the mission of Boston.com and its editorial staff.  
 
-Hugo makes use of a variety of open source projects including:
+Zach also has extensive research experience, and is studying UX privacy and dark patterns through an honors project at Northeastern’s College of Arts, Media and Design. He takes pride in approaching design through an interdisciplinary perspective thanks to his computer science background and intersectional legal research. He approaches his projects with an eye for detail that can only come from a unique perspective of multiple areas of interest. 
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+In his spare time, Zach enjoys listening to music, cooking, and rooting for the Philadelphia Phillies!

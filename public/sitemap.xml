@@ -29,17 +29,45 @@
     <loc>http://localhost:1313/tags/ui/ux/</loc>
     <lastmod>2024-05-19T17:16:35-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/chain/</loc>
+    <lastmod>2023-12-02T17:16:35-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/game-design/</loc>
+    <lastmod>2023-12-02T17:16:35-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/product-design/</loc>
+    <lastmod>2023-12-02T17:16:35-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/adobe-suite/</loc>
+    <lastmod>2023-12-01T17:16:35-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/alloc8/</loc>
+    <lastmod>2023-12-01T17:16:35-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/graphic-design/</loc>
+    <lastmod>2023-12-01T17:16:35-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/art/</loc>
+    <lastmod>2023-05-01T17:16:35-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/code/</loc>
+    <lastmod>2023-05-01T17:16:35-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/html/css/</loc>
+    <lastmod>2023-05-01T17:16:35-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tactical-media/</loc>
+    <lastmod>2023-05-01T17:16:35-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/tactical-media-project/</loc>
+    <lastmod>2023-05-01T17:16:35-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/pages/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pages/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pages/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/tactical-media-project/</loc>
-  </url><url>
-    <loc>http://localhost:1313/pages/search/</loc>
   </url>
 </urlset>

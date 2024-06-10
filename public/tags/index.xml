@@ -22,6 +22,54 @@
         <guid>http://localhost:1313/tags/ui/ux/</guid>
         <description></description>
         </item>
+        <item>
+        <title>Game Design</title>
+        <link>http://localhost:1313/tags/game-design/</link>
+        <pubDate>Sat, 02 Dec 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/tags/game-design/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Product Design</title>
+        <link>http://localhost:1313/tags/product-design/</link>
+        <pubDate>Sat, 02 Dec 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/tags/product-design/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Adobe Suite</title>
+        <link>http://localhost:1313/tags/adobe-suite/</link>
+        <pubDate>Fri, 01 Dec 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/tags/adobe-suite/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Graphic Design</title>
+        <link>http://localhost:1313/tags/graphic-design/</link>
+        <pubDate>Fri, 01 Dec 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/tags/graphic-design/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>HTML/CSS</title>
+        <link>http://localhost:1313/tags/html/css/</link>
+        <pubDate>Mon, 01 May 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/tags/html/css/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tactical Media</title>
+        <link>http://localhost:1313/tags/tactical-media/</link>
+        <pubDate>Mon, 01 May 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/tags/tactical-media/</guid>
+        <description></description>
+        </item>
         
     </channel>
 </rss>
