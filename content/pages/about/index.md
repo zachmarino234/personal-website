@@ -11,7 +11,7 @@ menu:
 links:
   - title: Resume
     description: Click here to view my resume!
-    website: https://drive.google.com/file/d/1GzWDIGEZdS3es2BlzK6r4KvExaxSnD9P/view?usp=sharing
+    website: Resume-Zach-Marino.pdf
     image: file.svg
 ---
 

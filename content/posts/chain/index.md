@@ -12,5 +12,5 @@ tags = [
 categories = [
     "design"
 ]
-
+image = "Chain logo.png"
 +++
