@@ -6,18 +6,34 @@
         <description>Recent content in Tags on Zach Marino</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 19 May 2024 17:16:35 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 01 Jun 2024 17:16:35 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Product Design</title>
+        <link>http://localhost:1313/tags/product-design/</link>
+        <pubDate>Sat, 01 Jun 2024 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/tags/product-design/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Figma</title>
         <link>http://localhost:1313/tags/figma/</link>
-        <pubDate>Sun, 19 May 2024 17:16:35 -0400</pubDate>
+        <pubDate>Fri, 01 Mar 2024 17:16:35 -0400</pubDate>
         
         <guid>http://localhost:1313/tags/figma/</guid>
         <description></description>
         </item>
         <item>
+        <title>Product Management</title>
+        <link>http://localhost:1313/tags/product-management/</link>
+        <pubDate>Fri, 01 Mar 2024 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/tags/product-management/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>UI/UX</title>
         <link>http://localhost:1313/tags/ui/ux/</link>
-        <pubDate>Sun, 19 May 2024 17:16:35 -0400</pubDate>
+        <pubDate>Fri, 01 Mar 2024 17:16:35 -0400</pubDate>
         
         <guid>http://localhost:1313/tags/ui/ux/</guid>
         <description></description>
@@ -31,19 +47,19 @@
         <description></description>
         </item>
         <item>
-        <title>Product Design</title>
-        <link>http://localhost:1313/tags/product-design/</link>
-        <pubDate>Sat, 02 Dec 2023 17:16:35 -0400</pubDate>
-        
-        <guid>http://localhost:1313/tags/product-design/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>Adobe Suite</title>
         <link>http://localhost:1313/tags/adobe-suite/</link>
         <pubDate>Fri, 01 Dec 2023 17:16:35 -0400</pubDate>
         
         <guid>http://localhost:1313/tags/adobe-suite/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Dark Patterns</title>
+        <link>http://localhost:1313/tags/dark-patterns/</link>
+        <pubDate>Fri, 01 Dec 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/tags/dark-patterns/</guid>
         <description></description>
         </item>
         <item>
@@ -55,11 +71,27 @@
         <description></description>
         </item>
         <item>
+        <title>Legal Design</title>
+        <link>http://localhost:1313/tags/legal-design/</link>
+        <pubDate>Fri, 01 Dec 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/tags/legal-design/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Exhibit Design</title>
         <link>http://localhost:1313/tags/exhibit-design/</link>
         <pubDate>Thu, 01 Jun 2023 17:16:35 -0400</pubDate>
         
         <guid>http://localhost:1313/tags/exhibit-design/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Typography</title>
+        <link>http://localhost:1313/tags/typography/</link>
+        <pubDate>Thu, 01 Jun 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/tags/typography/</guid>
         <description></description>
         </item>
         <item>

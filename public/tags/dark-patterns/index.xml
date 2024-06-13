@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Dark Patterns on Zach Marino</title>
+        <link>http://localhost:1313/tags/dark-patterns/</link>
+        <description>Recent content in Dark Patterns on Zach Marino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 01 Dec 2023 17:16:35 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/dark-patterns/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>The Ethics of Dark Patterns</title>
+        <link>http://localhost:1313/posts/ethics-of-dark-patterns/</link>
+        <pubDate>Fri, 01 Dec 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/ethics-of-dark-patterns/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;To see the detailed design doc click the button below.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;a href=&#34;The-Ethics-of-Dark-Patterns-Zach-Marino.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
+    Paper
+&lt;/a&gt;
+  
+</description>
+        </item>
+        
+    </channel>
+</rss>

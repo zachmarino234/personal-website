@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Typography on Zach Marino</title>
+        <link>http://localhost:1313/tags/typography/</link>
+        <description>Recent content in Typography on Zach Marino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 01 Jun 2023 17:16:35 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/typography/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Where did all of the Serif Typefaces Go?</title>
+        <link>http://localhost:1313/posts/where-did-all-the-serif-typefaces-go/</link>
+        <pubDate>Thu, 01 Jun 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/where-did-all-the-serif-typefaces-go/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/where-did-all-the-serif-typefaces-go/Stripes.png" alt="Featured image of post Where did all of the Serif Typefaces Go?" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

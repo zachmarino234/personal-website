@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Boston Globe on Zach Marino</title>
+        <link>http://localhost:1313/categories/boston-globe/</link>
+        <description>Recent content in Boston Globe on Zach Marino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 01 Jun 2024 17:16:35 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/boston-globe/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Boston Globe Co-op Retrospective</title>
+        <link>http://localhost:1313/posts/boston-globe-retrospective/</link>
+        <pubDate>Sat, 01 Jun 2024 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/boston-globe-retrospective/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Boston Globe Innovation Week 2024</title>
+        <link>http://localhost:1313/posts/innovation-week/</link>
+        <pubDate>Fri, 01 Mar 2024 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/innovation-week/</guid>
+        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;Every quarter, the Boston Globe hosts an event called &lt;strong&gt;innovation week&lt;/strong&gt;, where any globe employee can pitch any idea. The best ideas are looked into and potentially implemented depending on the scope of the work and its alignment with company values. The judges consisted of company executives and the Boston Globe innovation team, as well as voting from other participants. &lt;a class=&#34;link&#34; href=&#34;https://www.example.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;More information on the innovation week initiative can be found on the Boston Globe corporate website.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I was the only co-op of 32 to submit a proposal and while I didn&amp;rsquo;t win, I won the &amp;ldquo;let&amp;rsquo;s try it&amp;rdquo; designation, which meant the judges liked my idea at a high-level and wanted to look into it further.&lt;/p&gt;
+&lt;h2 id=&#34;my-proposal&#34;&gt;My proposal
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(This description of my proposal is intentionally left vague as my entry to innovation week is intellectual property of the Boston Globe)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In my first couple of months at the globe, I noticed the way we display the scores of Boston sports games was really basic and lacked any particularly good user experience. Specifically, the banner that shows up on the homepage of Boston.com did not fit with the style of the rest of the website and only showed the score. I figured that the banner could use a facelift and we could use the opportunity to make the banner much more detailed and user-friendly.&lt;/p&gt;
+&lt;h2 id=&#34;product-research&#34;&gt;Product Research
+&lt;/h2&gt;&lt;p&gt;With my proposal in mind, I looked into our competitors for sports content and how we differed from them. I also learned that according to the &amp;hellip; however many ppl used a second screen when watching a sports game.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
