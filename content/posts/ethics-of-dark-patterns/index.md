@@ -1,7 +1,7 @@
 +++
 title = 'The Ethics of Dark Patterns'
 date = 2023-12-01T17:16:35-04:00
-draft = true
+draft = false
 toc = true
 description = "Analytical research paper documenting the conception of dark patterns and various legal and ethical avenues for regulation"
 tags = [
