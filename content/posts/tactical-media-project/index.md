@@ -20,4 +20,8 @@ The Cool Corner is a Tactical Media project I did as my final project for my Exp
 I made my project about the closing of GeoCities from the view of an average user. The website is coded in HTML, CSS, and Javascript and is made to emulate how a GeoCities website could have looked at the time, as well as emulate how it would have felt to see your personal website break and disappear before you.
 This project was a major step forward for me because up till this point my projects had been pretty surface level. 
 
+Click the button below to access the project ⬇️
+
+{{< button url="../../tactical-media-project/home.html" text="Click Here" class="btn-primary">}}
+
 ### Heading

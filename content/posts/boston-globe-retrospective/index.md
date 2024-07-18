@@ -8,7 +8,16 @@ tags = [
     "product design"
 ]
 categories = [
-    "boston globe"
+    "boston globe",
+    "featured work"
 ]
 
 +++
+
+## Context
+
+I accepted a co-op position as a product manager at the Boston Globe starting in January of 2024. I completed the six month co-op term then stayed on part time for another two months until August 2024.
+
+I worked primarily on the Boston.com team but also worked on other Globe projects like the corporate website. I also participated in innovation week, which is an initiative 
+
+##

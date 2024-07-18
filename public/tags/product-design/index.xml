@@ -12,7 +12,11 @@
         <pubDate>Sat, 01 Jun 2024 17:16:35 -0400</pubDate>
         
         <guid>http://localhost:1313/posts/boston-globe-retrospective/</guid>
-        <description></description>
+        <description>&lt;h2 id=&#34;context&#34;&gt;Context
+&lt;/h2&gt;&lt;p&gt;I accepted a co-op position as a product manager at the Boston Globe starting in January of 2024. I completed the six month co-op term then stayed on part time for another two months until August 2024.&lt;/p&gt;
+&lt;p&gt;I worked primarily on the Boston.com team but also worked on other Globe projects like the corporate website. I also participated in innovation week, which is an initiative&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;
+&lt;/h2&gt;</description>
         </item>
         <item>
         <title>Boston Globe Innovation Week 2024</title>
@@ -20,8 +24,8 @@
         <pubDate>Fri, 01 Mar 2024 17:16:35 -0400</pubDate>
         
         <guid>http://localhost:1313/posts/innovation-week/</guid>
-        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
-&lt;/h2&gt;&lt;p&gt;Every quarter, the Boston Globe hosts an event called &lt;strong&gt;innovation week&lt;/strong&gt;, where any globe employee can pitch any idea. The best ideas are looked into and potentially implemented depending on the scope of the work and its alignment with company values. The judges consisted of company executives and the Boston Globe innovation team, as well as voting from other participants. &lt;a class=&#34;link&#34; href=&#34;https://www.example.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <description>&lt;img src="http://localhost:1313/posts/innovation-week/Hack-Day-2022.jpeg" alt="Featured image of post Boston Globe Innovation Week 2024" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;Every quarter, the Boston Globe hosts an event called &lt;strong&gt;innovation week&lt;/strong&gt;, where any globe employee can pitch any idea. The best ideas are looked into and potentially implemented depending on the scope of the work and its alignment with company values. The judges consisted of company executives and the Boston Globe innovation team, as well as voting from other participants. &lt;a class=&#34;link&#34; href=&#34;https://www.bostonglobemedia.com/innovation/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;More information on the innovation week initiative can be found on the Boston Globe corporate website.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I was the only co-op of 32 to submit a proposal and while I didn&amp;rsquo;t win, I won the &amp;ldquo;let&amp;rsquo;s try it&amp;rdquo; designation, which meant the judges liked my idea at a high-level and wanted to look into it further.&lt;/p&gt;
 &lt;h2 id=&#34;my-proposal&#34;&gt;My proposal
@@ -37,7 +41,16 @@
         <pubDate>Sat, 02 Dec 2023 17:16:35 -0400</pubDate>
         
         <guid>http://localhost:1313/posts/chain/</guid>
-        <description>&lt;img src="http://localhost:1313/posts/chain/Chain%20logo.png" alt="Featured image of post Chain - A Word Connecting Card Game" /&gt;</description>
+        <description>&lt;img src="http://localhost:1313/posts/chain/Chain%20logo.png" alt="Featured image of post Chain - A Word Connecting Card Game" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;Chain is a card game I designed in a group in Design Perspectives (ARTG1001) taught by Northeastern Professor Lee Moreau during the Fall 2023 semester. There were no rules on what our game had to be or how it was played, it just had to be accessible to most skill levels. My job in the group was to develop the rules for the game.&lt;/p&gt;
+&lt;p&gt;I took on the ruleset because prior to this project, a majority of my design work had been for a digital medium so I wanted to explore a physical medium and challenge myself with a new type of design. My groupmates worked on the visual design of the cards and the instructions, and we all contributed to the list of words we would put on the cards.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To see the detailed design doc click the button below.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;a href=&#34;Game-process-portfolio.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
+    Design Doc
+&lt;/a&gt;
+  
+</description>
         </item>
         
     </channel>

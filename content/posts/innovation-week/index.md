@@ -12,22 +12,27 @@ tags = [
 ]
 categories = [
     "boston globe",
-    "design"
+    "design",
+    "featured work"
 ]
-
+image = "Hack-Day-2022.jpeg"
 +++
 ## Introduction
 
-Every quarter, the Boston Globe hosts an event called **innovation week**, where any globe employee can pitch any idea. The best ideas are looked into and potentially implemented depending on the scope of the work and its alignment with company values. The judges consisted of company executives and the Boston Globe innovation team, as well as voting from other participants. [More information on the innovation week initiative can be found on the Boston Globe corporate website.](https://www.example.com)
+Every quarter, the Boston Globe hosts an event called **innovation week**, where any globe employee can pitch any idea. The best ideas are looked into and potentially implemented depending on the scope of the work and its alignment with company values. The judges consisted of company executives and the Boston Globe innovation team, as well as voting from other participants. [More information on the innovation week initiative can be found on the Boston Globe corporate website.](https://www.bostonglobemedia.com/innovation/)
 
 I was the only co-op of 32 to submit a proposal and while I didn't win, I won the "let's try it" designation, which meant the judges liked my idea at a high-level and wanted to look into it further.
 
-## My proposal
+## My Proposal
 
 **(This description of my proposal is intentionally left vague as my entry to innovation week is intellectual property of the Boston Globe)**
 
-In my first couple of months at the globe, I noticed the way we display the scores of Boston sports games was really basic and lacked any particularly good user experience. Specifically, the banner that shows up on the homepage of Boston.com did not fit with the style of the rest of the website and only showed the score. I figured that the banner could use a facelift and we could use the opportunity to make the banner much more detailed and user-friendly. 
+In my first couple of months at the globe, I noticed the way we display the scores of Boston sports games was really basic and lacked any particularly good user experience. Specifically, the banner that shows up on the homepage of Boston.com did not fit with the style of the rest of the website and only showed the score. I figured that the banner could use a facelift and we could use the opportunity to make the banner much more detailed and user-friendly. Boston sports are an especially big part of the culture and my project sought to capitalize on that love for Boston sports.
 
 ## Product Research
 
-With my proposal in mind, I looked into our competitors for sports content and how we differed from them. I also learned that according to the ... however many ppl used a second screen when watching a sports game. 
+With my proposal in mind, I looked into our competitors for sports content and how we differed from them. I also learned that according to the ... however many ppl used a second screen when watching a sports game. I found out that our competitors either didn't focus on Boston sports coverage exclusively (like CNN for example) or their level of detail only appealed to enthusiasts (like ESPN for example). Globe properties fit into the middle ground of these two extremes.
+
+## Interface Design
+
+Before starting my first iteration, I first determined what metrics and features I wanted to include in the banner.

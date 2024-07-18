@@ -12,8 +12,8 @@
         <pubDate>Fri, 01 Mar 2024 17:16:35 -0400</pubDate>
         
         <guid>http://localhost:1313/posts/innovation-week/</guid>
-        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
-&lt;/h2&gt;&lt;p&gt;Every quarter, the Boston Globe hosts an event called &lt;strong&gt;innovation week&lt;/strong&gt;, where any globe employee can pitch any idea. The best ideas are looked into and potentially implemented depending on the scope of the work and its alignment with company values. The judges consisted of company executives and the Boston Globe innovation team, as well as voting from other participants. &lt;a class=&#34;link&#34; href=&#34;https://www.example.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <description>&lt;img src="http://localhost:1313/posts/innovation-week/Hack-Day-2022.jpeg" alt="Featured image of post Boston Globe Innovation Week 2024" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;Every quarter, the Boston Globe hosts an event called &lt;strong&gt;innovation week&lt;/strong&gt;, where any globe employee can pitch any idea. The best ideas are looked into and potentially implemented depending on the scope of the work and its alignment with company values. The judges consisted of company executives and the Boston Globe innovation team, as well as voting from other participants. &lt;a class=&#34;link&#34; href=&#34;https://www.bostonglobemedia.com/innovation/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;More information on the innovation week initiative can be found on the Boston Globe corporate website.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I was the only co-op of 32 to submit a proposal and while I didn&amp;rsquo;t win, I won the &amp;ldquo;let&amp;rsquo;s try it&amp;rdquo; designation, which meant the judges liked my idea at a high-level and wanted to look into it further.&lt;/p&gt;
 &lt;h2 id=&#34;my-proposal&#34;&gt;My proposal
@@ -30,7 +30,14 @@
         
         <guid>http://localhost:1313/posts/alloc8/</guid>
         <description>&lt;img src="http://localhost:1313/posts/alloc8/Alloc8%20logo.png" alt="Featured image of post Alloc8 - Personal Finance Project" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
-&lt;/h2&gt;</description>
+&lt;/h2&gt;&lt;p&gt;Alloc8 is a personal finance app that I created in ARTG 2400 Interaction Design Principles, taught by Professor Sofie Hodara, for my final project. We started in small groups and did user research together, interviewing our friends and family about their personal finance habits. From these user interviews we developed an idea of what users wanted from a personal finance app, and created our own seperate prodicts to solve this design issue. I ended up on a personal finance app that automatically allocates your paycheck into rent, budgets, spending goals, etc. as decided by the user, and the extra money left over can be used to either temporarily increase budgets or add to other goals.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To see the detailed design doc click the button below.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;a href=&#34;Alloc8-Process-Portfolio.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
+    Design Doc
+&lt;/a&gt;
+  
+</description>
         </item>
         <item>
         <title>MOHAI Native Stories</title>
@@ -41,7 +48,7 @@
         <description>&lt;img src="http://localhost:1313/posts/mohai-native-stories/MOHAI.png" alt="Featured image of post MOHAI Native Stories" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;During the first half of Summer 2023, I did a program at Northeastern’s Seattle campus, where I took a user experience design class (CS4973 is the generic special topics class code). Throughout that class, we were tasked with a design project relating to the Museum of History and Industry (MOHAI) in the South Lake Union area (by the Amazon Headquarters).&lt;/p&gt;
 &lt;p&gt;In groups, our job was to propose a redesign of a certain part of the Indigenous Peoples Exhibit. My group focused on the Native American stories they had playing throughout the exhibit on screens. Our job was to reimagine how people interacted with these stories.
-We completed a full cycle of the design process using common brainstorming tools like Miro and prototyping tools like Balsmiq Wireframes and Axure RP. While Figma is the primary design tool I use, this project was a good way to learn other software and expand my skill set as a designer.&lt;/p&gt;
+We completed a full cycle of the design process using common brainstorming tools like Miro and prototyping tools like Balsmiq Wireframes and Axure RP. While Figma is the primary design tool I use, this project was a good way to learn other software and expand my skill set as a designer. It was also the first time I worked on a design project with a real client as compared to a made-up scenario for a class project.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;To see the detailed design doc click the button below.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;a href=&#34;MOHAI-Process-Portfolio.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
@@ -49,19 +56,6 @@ We completed a full cycle of the design process using common brainstorming tools
 &lt;/a&gt;
   
 </description>
-        </item>
-        <item>
-        <title>My First Post</title>
-        <link>http://localhost:1313/posts/my-first-post/</link>
-        <pubDate>Fri, 19 May 2023 17:16:35 -0400</pubDate>
-        
-        <guid>http://localhost:1313/posts/my-first-post/</guid>
-        <description>&lt;img src="http://localhost:1313/posts/my-first-post/bitmap%20alphabet%20ss.png" alt="Featured image of post My First Post" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
-&lt;/h2&gt;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
-&lt;h3 id=&#34;heading&#34;&gt;Heading
-&lt;/h3&gt;</description>
         </item>
         
     </channel>

@@ -12,8 +12,9 @@ links:
   - title: Resume
     description: Click here to view my resume!
     website: Resume-Zach-Marino.pdf
-    image: file.svg
 ---
+
+{{< button url="Resume-Zach-Marino.pdf" text="Resume" class="btn-primary">}}
 
 Zach Marino is a second-year Computer Science and Design combined major at Northeastern University. He currently works on the Project Management team at The Boston Globe, where he contributes to the mission of Boston.com and its editorial staff.  
 

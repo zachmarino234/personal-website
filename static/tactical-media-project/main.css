@@ -1,0 +1,34 @@
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.rotate {
+  animation: spin 2s infinite linear;
+}
+
+#myContainer {
+  position: absolute;
+  top: 200px;
+  left: 200px;
+}
+
+.text {
+  color: #ffffff;
+  float: left;
+}
+
+.centerBox {
+  background-color: black;
+  padding: 10px;
+  border: 2px solid blueviolet;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}

@@ -6,7 +6,15 @@
         <description>Recent content in Categories on Zach Marino</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 01 Jun 2024 17:16:35 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Featured Work</title>
+        <link>http://localhost:1313/categories/featured-work/</link>
+        <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/featured-work/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Boston Globe</title>
         <link>http://localhost:1313/categories/boston-globe/</link>
         <pubDate>Sat, 01 Jun 2024 17:16:35 -0400</pubDate>
@@ -36,14 +44,6 @@
         <pubDate>Thu, 01 Jun 2023 17:16:35 -0400</pubDate>
         
         <guid>http://localhost:1313/categories/art/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Testing</title>
-        <link>http://localhost:1313/categories/testing/</link>
-        <pubDate>Fri, 19 May 2023 17:16:35 -0400</pubDate>
-        
-        <guid>http://localhost:1313/categories/testing/</guid>
         <description></description>
         </item>
         <item>
