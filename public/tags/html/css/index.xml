@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>HTML/CSS on Zach Marino</title>
-        <link>http://localhost:1313/tags/html/css/</link>
+        <link>https://example.org/tags/html/css/</link>
         <description>Recent content in HTML/CSS on Zach Marino</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 01 May 2023 17:16:35 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/html/css/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 01 May 2023 17:16:35 -0400</lastBuildDate><atom:link href="https://example.org/tags/html/css/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>The Cool Corner - Tactical Media Project</title>
-        <link>http://localhost:1313/posts/tactical-media-project/</link>
+        <link>https://example.org/posts/tactical-media-project/</link>
         <pubDate>Mon, 01 May 2023 17:16:35 -0400</pubDate>
         
-        <guid>http://localhost:1313/posts/tactical-media-project/</guid>
-        <description>&lt;img src="http://localhost:1313/posts/tactical-media-project/Cool%20Corner.gif" alt="Featured image of post The Cool Corner - Tactical Media Project" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>https://example.org/posts/tactical-media-project/</guid>
+        <description>&lt;img src="https://example.org/posts/tactical-media-project/Cool%20Corner.gif" alt="Featured image of post The Cool Corner - Tactical Media Project" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;The Cool Corner is a Tactical Media project I did as my final project for my Experience and Interaction class (ARTF2223). Geert Lovink and David Garcia define Tactical Media as &amp;ldquo;what happens when the cheap &amp;lsquo;do it yourself&amp;rsquo; media, made possible by the revolution in consumer electronics and expanded forms of distribution (from public access cable to the internet), are exploited by groups and individuals who feel aggrieved by or excluded from the wider culture…&amp;rdquo; Essentially, Tactical Media is an art movement that combines art, experimental media, and political activism.
 I made my project about the closing of GeoCities from the view of an average user. The website is coded in HTML, CSS, and Javascript and is made to emulate how a GeoCities website could have looked at the time, as well as emulate how it would have felt to see your personal website break and disappear before you.
 This project was a major step forward for me because up till this point my projects had been pretty surface level. &lt;/p&gt;
 &lt;p&gt;Click the button below to access the project ⬇️&lt;/p&gt;
 
 &lt;a href=&#34;../../tactical-media-project/home.html&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
-    Click Here
+    View Project
 &lt;/a&gt;
   
 &lt;h3 id=&#34;heading&#34;&gt;Heading
