@@ -1,8 +1,8 @@
 +++
 title = 'The Cool Corner - Tactical Media Project'
 date = 2023-05-01T17:16:35-04:00
-draft = true
-toc = true
+draft = false
+toc = false
 description = "Static website featuring a tactical media intervention about the collapse of GeoCities"
 tags = [
     "tactical media",
@@ -22,6 +22,6 @@ This project was a major step forward for me because up till this point my proje
 
 Click the button below to access the project ⬇️
 
-{{< button url="../../tactical-media-project/home.html" text="Click Here" class="btn-primary">}}
+{{< button url="../../tactical-media-project/home.html" text="View Project" class="btn-primary">}}
 
 ### Heading

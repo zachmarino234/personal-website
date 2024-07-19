@@ -1,7 +1,7 @@
 +++
 title = 'Two Designer Timeline'
 date = 2023-05-05T17:16:35-04:00
-draft = true
+draft = false
 toc = true
 description = "Multi-page timeline documenting the life of two seperate designers and their impact on the world of design"
 tags = [
@@ -14,6 +14,8 @@ categories = [
 ]
 image = "2DT.png"
 +++
+
+{{< button url="Two-Designer-Timeline.pdf" text="View the Timeline" class="btn-primary">}}
 
 ## Introduction
 
@@ -29,9 +31,11 @@ The design of the timeline, while simple, conveys a lot of meaning. Following Lo
 
 One of my biggest struggles on this project (besides the initial artists block) was how I laid out each page. I was cramming too much into each page so the layouts felt cramped and rigid. This is still something I am actively working on as a designer, but on this project I realized this issue on my first iteration of what would be the final draft and gave my elements some breathing room in later iterations.
 
-**(insert example images)**
+![Old Cramped Layout](2DT-old-example.png)
 
-## Project
+![New Spaced-Out Layout](2DT-new-example.png)
+
+## View Project
 
 **To view the timeline, click the button below.**
 

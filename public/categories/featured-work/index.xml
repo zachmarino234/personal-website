@@ -2,10 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Featured Work on Zach Marino</title>
-        <link>https://example.org/categories/featured-work/</link>
+        <link>http://localhost:1313/categories/featured-work/</link>
         <description>Recent content in Featured Work on Zach Marino</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/featured-work/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/featured-work/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Boston Globe Co-op Retrospective</title>
+        <link>http://localhost:1313/posts/boston-globe-retrospective/</link>
+        <pubDate>Sat, 01 Jun 2024 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/boston-globe-retrospective/</guid>
+        <description>&lt;h2 id=&#34;context&#34;&gt;Context
+&lt;/h2&gt;&lt;p&gt;I accepted a co-op position as a product manager at the Boston Globe starting in January of 2024. I completed the six month co-op term then stayed on part time for another two months until August 2024.&lt;/p&gt;
+&lt;p&gt;I worked primarily on the Boston.com team but also worked on other Globe projects like the corporate website. I also participated in innovation week, which is an initiative&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;
+&lt;/h2&gt;</description>
+        </item>
+        <item>
+        <title>Boston Globe Innovation Week 2024</title>
+        <link>http://localhost:1313/posts/innovation-week/</link>
+        <pubDate>Fri, 01 Mar 2024 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/innovation-week/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/innovation-week/Hack-Day-2022.jpeg" alt="Featured image of post Boston Globe Innovation Week 2024" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;Every quarter, the Boston Globe hosts an event called &lt;strong&gt;innovation week&lt;/strong&gt;, where any globe employee can pitch any idea. The best ideas are looked into and potentially implemented depending on the scope of the work and its alignment with company values. The judges consisted of company executives and the Boston Globe innovation team, as well as voting from other participants. &lt;a class=&#34;link&#34; href=&#34;https://www.bostonglobemedia.com/innovation/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;More information on the innovation week initiative can be found on the Boston Globe corporate website.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I was the only co-op of 32 to submit a proposal and while I didn&amp;rsquo;t win, I won the &amp;ldquo;let&amp;rsquo;s try it&amp;rdquo; designation, which meant the judges liked my idea at a high-level and wanted to look into it further.&lt;/p&gt;
+&lt;h2 id=&#34;my-proposal&#34;&gt;My Proposal
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(This description of my proposal is intentionally left vague as my entry to innovation week is intellectual property of the Boston Globe)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In my first couple of months at the globe, I noticed the way we display the scores of Boston sports games was really basic and lacked any particularly good user experience. Specifically, the banner that shows up on the homepage of Boston.com did not fit with the style of the rest of the website and only showed the score. I figured that the banner could use a facelift and we could use the opportunity to make the banner much more detailed and user-friendly. Boston sports are an especially big part of the culture and my project sought to capitalize on that love for Boston sports.&lt;/p&gt;
+&lt;h2 id=&#34;product-research&#34;&gt;Product Research
+&lt;/h2&gt;&lt;p&gt;With my proposal in mind, I looked into our competitors for sports content and how we differed from them. I also learned that according to the &amp;hellip; however many ppl used a second screen when watching a sports game. I found out that our competitors either didn&amp;rsquo;t focus on Boston sports coverage exclusively (like CNN for example) or their level of detail only appealed to enthusiasts (like ESPN for example). Globe properties fit into the middle ground of these two extremes.&lt;/p&gt;
+&lt;h2 id=&#34;interface-design&#34;&gt;Interface Design
+&lt;/h2&gt;&lt;p&gt;Before starting my first iteration, I first determined what metrics and features I wanted to include in the banner.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Chain - A Word Connecting Card Game</title>
+        <link>http://localhost:1313/posts/chain/</link>
+        <pubDate>Sat, 02 Dec 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/chain/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/chain/Chain%20logo.png" alt="Featured image of post Chain - A Word Connecting Card Game" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;Chain is a card game I designed in a group in Design Perspectives (ARTG1001) taught by Northeastern Professor Lee Moreau during the Fall 2023 semester. There were no rules on what our game had to be or how it was played, it just had to be accessible to most skill levels. My job in the group was to develop the rules for the game.&lt;/p&gt;
+&lt;p&gt;I took on the ruleset because prior to this project, a majority of my design work had been for a digital medium so I wanted to explore a physical medium and challenge myself with a new type of design. My groupmates worked on the visual design of the cards and the instructions, and we all contributed to the list of words we would put on the cards.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To see the detailed design doc click the button below.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;a href=&#34;Game-process-portfolio.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
+    Design Doc
+&lt;/a&gt;
+  
+</description>
+        </item>
+        <item>
+        <title>Alloc8 - Personal Finance Project</title>
+        <link>http://localhost:1313/posts/alloc8/</link>
+        <pubDate>Fri, 01 Dec 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/alloc8/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/alloc8/Alloc8%20logo.png" alt="Featured image of post Alloc8 - Personal Finance Project" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;Alloc8 is a personal finance app that I created in ARTG 2400 Interaction Design Principles, taught by Professor Sofie Hodara, for my final project. We started in small groups and did user research together, interviewing our friends and family about their personal finance habits. From these user interviews we developed an idea of what users wanted from a personal finance app, and created our own seperate prodicts to solve this design issue. I ended up on a personal finance app that automatically allocates your paycheck into rent, budgets, spending goals, etc. as decided by the user, and the extra money left over can be used to either temporarily increase budgets or add to other goals.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To see the detailed design doc click the button below.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;a href=&#34;Alloc8-Process-Portfolio.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
+    Design Doc
+&lt;/a&gt;
+  
+</description>
+        </item>
+        <item>
+        <title>MOHAI Native Stories</title>
+        <link>http://localhost:1313/posts/mohai-native-stories/</link>
+        <pubDate>Thu, 01 Jun 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/mohai-native-stories/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/mohai-native-stories/MOHAI.png" alt="Featured image of post MOHAI Native Stories" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;During the first half of Summer 2023, I did a program at Northeastern’s Seattle campus, where I took a user experience design class (CS4973 is the generic special topics class code). Throughout that class, we were tasked with a design project relating to the Museum of History and Industry (MOHAI) in the South Lake Union area (by the Amazon Headquarters).&lt;/p&gt;
+&lt;p&gt;In groups, our job was to propose a redesign of a certain part of the Indigenous Peoples Exhibit. My group focused on the Native American stories they had playing throughout the exhibit on screens. Our job was to reimagine how people interacted with these stories.
+We completed a full cycle of the design process using common brainstorming tools like Miro and prototyping tools like Balsmiq Wireframes and Axure RP. While Figma is the primary design tool I use, this project was a good way to learn other software and expand my skill set as a designer. It was also the first time I worked on a design project with a real client as compared to a made-up scenario for a class project.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To see the detailed design doc click the button below.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;a href=&#34;MOHAI-Process-Portfolio.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
+    Design Doc
+&lt;/a&gt;
+  
+</description>
+        </item>
+        
     </channel>
 </rss>

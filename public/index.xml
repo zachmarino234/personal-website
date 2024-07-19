@@ -2,24 +2,235 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Zach Marino</title>
-        <link>https://example.org/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content on Zach Marino</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 01 Jun 2024 17:16:35 -0400</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 01 Jun 2024 17:16:35 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Boston Globe Co-op Retrospective</title>
+        <link>http://localhost:1313/posts/boston-globe-retrospective/</link>
+        <pubDate>Sat, 01 Jun 2024 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/boston-globe-retrospective/</guid>
+        <description>&lt;h2 id=&#34;context&#34;&gt;Context
+&lt;/h2&gt;&lt;p&gt;I accepted a co-op position as a product manager at the Boston Globe starting in January of 2024. I completed the six month co-op term then stayed on part time for another two months until August 2024.&lt;/p&gt;
+&lt;p&gt;I worked primarily on the Boston.com team but also worked on other Globe projects like the corporate website. I also participated in innovation week, which is an initiative&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;
+&lt;/h2&gt;</description>
+        </item>
+        <item>
+        <title>Boston Globe Innovation Week 2024</title>
+        <link>http://localhost:1313/posts/innovation-week/</link>
+        <pubDate>Fri, 01 Mar 2024 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/innovation-week/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/innovation-week/Hack-Day-2022.jpeg" alt="Featured image of post Boston Globe Innovation Week 2024" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;Every quarter, the Boston Globe hosts an event called &lt;strong&gt;innovation week&lt;/strong&gt;, where any globe employee can pitch any idea. The best ideas are looked into and potentially implemented depending on the scope of the work and its alignment with company values. The judges consisted of company executives and the Boston Globe innovation team, as well as voting from other participants. &lt;a class=&#34;link&#34; href=&#34;https://www.bostonglobemedia.com/innovation/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;More information on the innovation week initiative can be found on the Boston Globe corporate website.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I was the only co-op of 32 to submit a proposal and while I didn&amp;rsquo;t win, I won the &amp;ldquo;let&amp;rsquo;s try it&amp;rdquo; designation, which meant the judges liked my idea at a high-level and wanted to look into it further.&lt;/p&gt;
+&lt;h2 id=&#34;my-proposal&#34;&gt;My Proposal
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(This description of my proposal is intentionally left vague as my entry to innovation week is intellectual property of the Boston Globe)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In my first couple of months at the globe, I noticed the way we display the scores of Boston sports games was really basic and lacked any particularly good user experience. Specifically, the banner that shows up on the homepage of Boston.com did not fit with the style of the rest of the website and only showed the score. I figured that the banner could use a facelift and we could use the opportunity to make the banner much more detailed and user-friendly. Boston sports are an especially big part of the culture and my project sought to capitalize on that love for Boston sports.&lt;/p&gt;
+&lt;h2 id=&#34;product-research&#34;&gt;Product Research
+&lt;/h2&gt;&lt;p&gt;With my proposal in mind, I looked into our competitors for sports content and how we differed from them. I also learned that according to the &amp;hellip; however many ppl used a second screen when watching a sports game. I found out that our competitors either didn&amp;rsquo;t focus on Boston sports coverage exclusively (like CNN for example) or their level of detail only appealed to enthusiasts (like ESPN for example). Globe properties fit into the middle ground of these two extremes.&lt;/p&gt;
+&lt;h2 id=&#34;interface-design&#34;&gt;Interface Design
+&lt;/h2&gt;&lt;p&gt;Before starting my first iteration, I first determined what metrics and features I wanted to include in the banner.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Chain - A Word Connecting Card Game</title>
+        <link>http://localhost:1313/posts/chain/</link>
+        <pubDate>Sat, 02 Dec 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/chain/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/chain/Chain%20logo.png" alt="Featured image of post Chain - A Word Connecting Card Game" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;Chain is a card game I designed in a group in Design Perspectives (ARTG1001) taught by Northeastern Professor Lee Moreau during the Fall 2023 semester. There were no rules on what our game had to be or how it was played, it just had to be accessible to most skill levels. My job in the group was to develop the rules for the game.&lt;/p&gt;
+&lt;p&gt;I took on the ruleset because prior to this project, a majority of my design work had been for a digital medium so I wanted to explore a physical medium and challenge myself with a new type of design. My groupmates worked on the visual design of the cards and the instructions, and we all contributed to the list of words we would put on the cards.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To see the detailed design doc click the button below.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;a href=&#34;Game-process-portfolio.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
+    Design Doc
+&lt;/a&gt;
+  
+</description>
+        </item>
+        <item>
+        <title>Alloc8 - Personal Finance Project</title>
+        <link>http://localhost:1313/posts/alloc8/</link>
+        <pubDate>Fri, 01 Dec 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/alloc8/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/alloc8/Alloc8%20logo.png" alt="Featured image of post Alloc8 - Personal Finance Project" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;Alloc8 is a personal finance app that I created in ARTG 2400 Interaction Design Principles, taught by Professor Sofie Hodara, for my final project. We started in small groups and did user research together, interviewing our friends and family about their personal finance habits. From these user interviews we developed an idea of what users wanted from a personal finance app, and created our own seperate prodicts to solve this design issue. I ended up on a personal finance app that automatically allocates your paycheck into rent, budgets, spending goals, etc. as decided by the user, and the extra money left over can be used to either temporarily increase budgets or add to other goals.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To see the detailed design doc click the button below.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;a href=&#34;Alloc8-Process-Portfolio.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
+    Design Doc
+&lt;/a&gt;
+  
+</description>
+        </item>
+        <item>
+        <title>The Ethics of Dark Patterns</title>
+        <link>http://localhost:1313/posts/ethics-of-dark-patterns/</link>
+        <pubDate>Fri, 01 Dec 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/ethics-of-dark-patterns/</guid>
+        <description>&lt;p&gt;The Ethics of Dark Patterns is a paper and final project I wrote for my Tech Regulations of Digital Platforms class (CS4973) taught by Northeastern Law professor Elettra Bieti. The paper discusses the conception and proliferation of dark patterns, and how they can potentially be regulated from both a legal and ethical standpoint.&lt;/p&gt;
+&lt;p&gt;Dark patterns are defined as instances where designers use their knowledge of human behavior (e.g., psychology) and the desires of end users to implement deceptive functionality that is not in the user’s best interest &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1145/3173574.3174108&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;(Gray et al., 2018, p.1)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To read the paper, click the button below.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;a href=&#34;The-Ethics-of-Dark-Patterns-Zach-Marino.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
+    Paper
+&lt;/a&gt;
+  
+</description>
+        </item>
+        <item>
+        <title>MOHAI Native Stories</title>
+        <link>http://localhost:1313/posts/mohai-native-stories/</link>
+        <pubDate>Thu, 01 Jun 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/mohai-native-stories/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/mohai-native-stories/MOHAI.png" alt="Featured image of post MOHAI Native Stories" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;During the first half of Summer 2023, I did a program at Northeastern’s Seattle campus, where I took a user experience design class (CS4973 is the generic special topics class code). Throughout that class, we were tasked with a design project relating to the Museum of History and Industry (MOHAI) in the South Lake Union area (by the Amazon Headquarters).&lt;/p&gt;
+&lt;p&gt;In groups, our job was to propose a redesign of a certain part of the Indigenous Peoples Exhibit. My group focused on the Native American stories they had playing throughout the exhibit on screens. Our job was to reimagine how people interacted with these stories.
+We completed a full cycle of the design process using common brainstorming tools like Miro and prototyping tools like Balsmiq Wireframes and Axure RP. While Figma is the primary design tool I use, this project was a good way to learn other software and expand my skill set as a designer. It was also the first time I worked on a design project with a real client as compared to a made-up scenario for a class project.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To see the detailed design doc click the button below.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;a href=&#34;MOHAI-Process-Portfolio.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
+    Design Doc
+&lt;/a&gt;
+  
+</description>
+        </item>
+        <item>
+        <title>Where did all of the Serif Typefaces Go?</title>
+        <link>http://localhost:1313/posts/where-did-all-the-serif-typefaces-go/</link>
+        <pubDate>Thu, 01 Jun 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/where-did-all-the-serif-typefaces-go/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/where-did-all-the-serif-typefaces-go/Stripes.png" alt="Featured image of post Where did all of the Serif Typefaces Go?" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;Stripes is the name of the first project I completed in Design Perspectives (ARTG1001) taught by Northeastern Professor Lee Moreau during the Fall 2023 semester. The goal of this project was to document when/where you see some chosen design element or motif, and create an infographic showcasing them. I decided on serif typefaces as my &amp;ldquo;stripes&amp;rdquo; and walked through Boston looking for any serif typefaces. Unfortunately, I found little to none. I decided instead of throwing in the towel and picking a different topic, I decided to approach this from the other end: &amp;ldquo;Where did all of the serif typefaces go?&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;infographic-design&#34;&gt;Infographic Design
+&lt;/h2&gt;&lt;p&gt;Serif typefaces give off a sense of credibility, opulence, and history. Considering these themes, I wanted my infographic to feel similarly luxiorious. However, considering I am framing this infographic as an investigation, I wanted to give this infographic the feeling of an investigative journalist reporting their findings. What I ended up with is a nice mixture of both.&lt;/p&gt;
+&lt;p&gt;The pink accent color was chosen because it was a less saturated pink that made it feel similar to rose gold. The offset boxes highlighting important words was added to emulate the (stereotypically) sloppy highlighting of a reporter. I learned in my typography class this semester that it often works to pair a serif typeface with a sans-serif one so I decided to try that on this infographic.&lt;/p&gt;
+&lt;p&gt;At least from my experience, a lot of &amp;ldquo;luxury&amp;rdquo; brands and products incorporate very provocative typography into their branding so I tried to mirror this with the large pink type in the background.&lt;/p&gt;
+&lt;p&gt;The typefaces I used, Essonnes and Poppins, were chosen because they fit together aesthetically and my only criteria was pairing a serif and sans-serif typeface together.&lt;/p&gt;
+&lt;h2 id=&#34;view-project&#34;&gt;View Project
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;To see the infographic click the button below.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;a href=&#34;stripes.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
+    View Infographic
+&lt;/a&gt;
+  
+</description>
+        </item>
+        <item>
+        <title>Two Designer Timeline</title>
+        <link>http://localhost:1313/posts/two-designer-timeline/</link>
+        <pubDate>Fri, 05 May 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/two-designer-timeline/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/two-designer-timeline/2DT.png" alt="Featured image of post Two Designer Timeline" /&gt;
+&lt;a href=&#34;Two-Designer-Timeline.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
+    View the Timeline
+&lt;/a&gt;
+  
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;The Two Designer Timeline was my final project for ARTH2215 Graphic Design History, where I had to create a timeline documenting the life of two seperate designers in an accordion-style booklet.&lt;/p&gt;
+&lt;h2 id=&#34;designers&#34;&gt;Designers
+&lt;/h2&gt;&lt;p&gt;The two designers I decided to research were Raymond Loewy and Carin Goldberg. Raymond Loewy is known for being the progenitor of Streamlining, and creating the streamlined and futuristic look we associate with the 1940s-60s. Carin Goldberg was an accomplished graphic designer who designed the cover for Madonna&amp;rsquo;s iconic self-titled album and the covers for many books and magazines. She sadly passed away shortly before I started working on this project from a brain tumor.&lt;/p&gt;
+&lt;h2 id=&#34;timeline-design&#34;&gt;Timeline Design
+&lt;/h2&gt;&lt;p&gt;The design of the timeline, while simple, conveys a lot of meaning. Following Loewys streamlining and Goldbergs simplified shapes and creative use of typography, I kept the timeline simple yet dynamic so that it is easy to read yet interesting stylistically. Besides the background, only three colors are used and they represent which events correspond to which designer or a general world event. This design language is kept consistent throughout to further ensure legibility for readers.&lt;/p&gt;
+&lt;p&gt;One of my biggest struggles on this project (besides the initial artists block) was how I laid out each page. I was cramming too much into each page so the layouts felt cramped and rigid. This is still something I am actively working on as a designer, but on this project I realized this issue on my first iteration of what would be the final draft and gave my elements some breathing room in later iterations.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/two-designer-timeline/2DT-old-example.png&#34;
+	width=&#34;4380&#34;
+	height=&#34;3286&#34;
+	srcset=&#34;http://localhost:1313/posts/two-designer-timeline/2DT-old-example_hu954c5bbbb4790192b578ea0d70320aa2_5815698_480x0_resize_box_3.png 480w, http://localhost:1313/posts/two-designer-timeline/2DT-old-example_hu954c5bbbb4790192b578ea0d70320aa2_5815698_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Old Cramped Layout&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;319px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/two-designer-timeline/2DT-new-example.png&#34;
+	width=&#34;4380&#34;
+	height=&#34;3286&#34;
+	srcset=&#34;http://localhost:1313/posts/two-designer-timeline/2DT-new-example_hu954c5bbbb4790192b578ea0d70320aa2_7081001_480x0_resize_box_3.png 480w, http://localhost:1313/posts/two-designer-timeline/2DT-new-example_hu954c5bbbb4790192b578ea0d70320aa2_7081001_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;New Spaced-Out Layout&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;319px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;view-project&#34;&gt;View Project
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;To view the timeline, click the button below.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;a href=&#34;Two-Designer-Timeline.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
+    Timeline
+&lt;/a&gt;
+  
+</description>
+        </item>
+        <item>
+        <title>The Cool Corner - Tactical Media Project</title>
+        <link>http://localhost:1313/posts/tactical-media-project/</link>
+        <pubDate>Mon, 01 May 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/tactical-media-project/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/tactical-media-project/Cool%20Corner.gif" alt="Featured image of post The Cool Corner - Tactical Media Project" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;The Cool Corner is a Tactical Media project I did as my final project for my Experience and Interaction class (ARTF2223). Geert Lovink and David Garcia define Tactical Media as &amp;ldquo;what happens when the cheap &amp;lsquo;do it yourself&amp;rsquo; media, made possible by the revolution in consumer electronics and expanded forms of distribution (from public access cable to the internet), are exploited by groups and individuals who feel aggrieved by or excluded from the wider culture…&amp;rdquo; Essentially, Tactical Media is an art movement that combines art, experimental media, and political activism.
+I made my project about the closing of GeoCities from the view of an average user. The website is coded in HTML, CSS, and Javascript and is made to emulate how a GeoCities website could have looked at the time, as well as emulate how it would have felt to see your personal website break and disappear before you.
+This project was a major step forward for me because up till this point my projects had been pretty surface level. &lt;/p&gt;
+&lt;p&gt;Click the button below to access the project ⬇️&lt;/p&gt;
+
+&lt;a href=&#34;../../tactical-media-project/home.html&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
+    View Project
+&lt;/a&gt;
+  
+&lt;h3 id=&#34;heading&#34;&gt;Heading
+&lt;/h3&gt;</description>
+        </item>
+        <item>
+        <title>Bitmap Alphabet</title>
+        <link>http://localhost:1313/posts/bitmap-alphabet/</link>
+        <pubDate>Wed, 01 Mar 2023 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/bitmap-alphabet/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Random Acts of Publishing</title>
+        <link>http://localhost:1313/posts/random-acts-of-publishing/</link>
+        <pubDate>Thu, 01 Dec 2022 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/random-acts-of-publishing/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Archives</title>
-        <link>https://example.org/pages/archives/</link>
+        <link>http://localhost:1313/pages/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.org/pages/archives/</guid>
+        <guid>http://localhost:1313/pages/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>About</title>
-        <link>https://example.org/pages/about/</link>
+        <link>http://localhost:1313/pages/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.org/pages/about/</guid>
+        <guid>http://localhost:1313/pages/about/</guid>
         <description>
 &lt;a href=&#34;Resume-Zach-Marino.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
     Resume

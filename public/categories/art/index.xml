@@ -33,15 +33,47 @@
         <pubDate>Fri, 05 May 2023 17:16:35 -0400</pubDate>
         
         <guid>http://localhost:1313/posts/two-designer-timeline/</guid>
-        <description>&lt;img src="http://localhost:1313/posts/two-designer-timeline/2DT.png" alt="Featured image of post Two Designer Timeline" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <description>&lt;img src="http://localhost:1313/posts/two-designer-timeline/2DT.png" alt="Featured image of post Two Designer Timeline" /&gt;
+&lt;a href=&#34;Two-Designer-Timeline.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
+    View the Timeline
+&lt;/a&gt;
+  
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;The Two Designer Timeline was my final project for ARTH2215 Graphic Design History, where I had to create a timeline documenting the life of two seperate designers in an accordion-style booklet.&lt;/p&gt;
 &lt;h2 id=&#34;designers&#34;&gt;Designers
 &lt;/h2&gt;&lt;p&gt;The two designers I decided to research were Raymond Loewy and Carin Goldberg. Raymond Loewy is known for being the progenitor of Streamlining, and creating the streamlined and futuristic look we associate with the 1940s-60s. Carin Goldberg was an accomplished graphic designer who designed the cover for Madonna&amp;rsquo;s iconic self-titled album and the covers for many books and magazines. She sadly passed away shortly before I started working on this project from a brain tumor.&lt;/p&gt;
 &lt;h2 id=&#34;timeline-design&#34;&gt;Timeline Design
 &lt;/h2&gt;&lt;p&gt;The design of the timeline, while simple, conveys a lot of meaning. Following Loewys streamlining and Goldbergs simplified shapes and creative use of typography, I kept the timeline simple yet dynamic so that it is easy to read yet interesting stylistically. Besides the background, only three colors are used and they represent which events correspond to which designer or a general world event. This design language is kept consistent throughout to further ensure legibility for readers.&lt;/p&gt;
 &lt;p&gt;One of my biggest struggles on this project (besides the initial artists block) was how I laid out each page. I was cramming too much into each page so the layouts felt cramped and rigid. This is still something I am actively working on as a designer, but on this project I realized this issue on my first iteration of what would be the final draft and gave my elements some breathing room in later iterations.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;(insert example images)&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;project&#34;&gt;Project
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/two-designer-timeline/2DT-old-example.png&#34;
+	width=&#34;4380&#34;
+	height=&#34;3286&#34;
+	srcset=&#34;http://localhost:1313/posts/two-designer-timeline/2DT-old-example_hu954c5bbbb4790192b578ea0d70320aa2_5815698_480x0_resize_box_3.png 480w, http://localhost:1313/posts/two-designer-timeline/2DT-old-example_hu954c5bbbb4790192b578ea0d70320aa2_5815698_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Old Cramped Layout&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;319px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/two-designer-timeline/2DT-new-example.png&#34;
+	width=&#34;4380&#34;
+	height=&#34;3286&#34;
+	srcset=&#34;http://localhost:1313/posts/two-designer-timeline/2DT-new-example_hu954c5bbbb4790192b578ea0d70320aa2_7081001_480x0_resize_box_3.png 480w, http://localhost:1313/posts/two-designer-timeline/2DT-new-example_hu954c5bbbb4790192b578ea0d70320aa2_7081001_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;New Spaced-Out Layout&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;319px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;view-project&#34;&gt;View Project
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;To view the timeline, click the button below.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;a href=&#34;Two-Designer-Timeline.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
@@ -75,6 +107,14 @@ This project was a major step forward for me because up till this point my proje
         <pubDate>Wed, 01 Mar 2023 17:16:35 -0400</pubDate>
         
         <guid>http://localhost:1313/posts/bitmap-alphabet/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Random Acts of Publishing</title>
+        <link>http://localhost:1313/posts/random-acts-of-publishing/</link>
+        <pubDate>Thu, 01 Dec 2022 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/random-acts-of-publishing/</guid>
         <description></description>
         </item>
         

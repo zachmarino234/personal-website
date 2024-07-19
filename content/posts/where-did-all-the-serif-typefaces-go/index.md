@@ -1,7 +1,7 @@
 +++
 title = 'Where did all of the Serif Typefaces Go?'
 date = 2023-06-01T17:16:35-04:00
-draft = true
+draft = false
 toc = true
 description = "Graphic design project documenting the disappearence of serif typefaces in everyday life"
 tags = [
@@ -30,6 +30,8 @@ At least from my experience, a lot of "luxury" brands and products incorporate v
 
 The typefaces I used, Essonnes and Poppins, were chosen because they fit together aesthetically and my only criteria was pairing a serif and sans-serif typeface together.
 
+## View Project
+
 **To see the infographic click the button below.**
 
-{{< button url="stripes.pdf" text="Infographic" class="btn-primary">}}
+{{< button url="stripes.pdf" text="View Infographic" class="btn-primary">}}
