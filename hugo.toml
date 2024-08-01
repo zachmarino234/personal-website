@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://zmarino.com/'
 languageCode = 'en-us'
 title = 'Zach Marino'
 theme = 'hugo-theme-stack'
