@@ -20,6 +20,6 @@ The Ethics of Dark Patterns is a paper and final project I wrote for my Tech Reg
 
 Dark patterns are defined as instances where designers use their knowledge of human behavior (e.g., psychology) and the desires of end users to implement deceptive functionality that is not in the user’s best interest [(Gray et al., 2018, p.1)](https://doi.org/10.1145/3173574.3174108)
 
-**To read the paper, click the button below.**
+**To read the paper, click the button below.** ⬇️
 
 {{< button url="The-Ethics-of-Dark-Patterns-Zach-Marino.pdf" text="Paper" class="btn-primary">}}

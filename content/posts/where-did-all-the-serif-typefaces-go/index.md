@@ -32,6 +32,6 @@ The typefaces I used, Essonnes and Poppins, were chosen because they fit togethe
 
 ## View Project
 
-**To see the infographic click the button below.**
+**To see the infographic click the button below.** ⬇️
 
 {{< button url="stripes.pdf" text="View Infographic" class="btn-primary">}}

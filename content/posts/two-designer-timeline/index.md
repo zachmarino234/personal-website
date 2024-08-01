@@ -37,6 +37,6 @@ One of my biggest struggles on this project (besides the initial artists block) 
 
 ## View Project
 
-**To view the timeline, click the button below.**
+**To view the timeline, click the button below.** ⬇️
 
 {{< button url="Two-Designer-Timeline.pdf" text="Timeline" class="btn-primary">}}
