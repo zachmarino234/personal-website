@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Design on Zach Marino</title>
-        <link>https://zmarino.com/categories/design/</link>
+        <link>http://localhost:1313/categories/design/</link>
         <description>Recent content in Design on Zach Marino</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 02 Dec 2023 17:16:35 -0400</lastBuildDate><atom:link href="https://zmarino.com/categories/design/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 02 Dec 2023 17:16:35 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/design/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Chain - A Word Connecting Card Game</title>
-        <link>https://zmarino.com/posts/chain/</link>
+        <link>http://localhost:1313/posts/chain/</link>
         <pubDate>Sat, 02 Dec 2023 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/posts/chain/</guid>
-        <description>&lt;img src="https://zmarino.com/posts/chain/Chain%20logo.png" alt="Featured image of post Chain - A Word Connecting Card Game" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:1313/posts/chain/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/chain/Chain%20logo.png" alt="Featured image of post Chain - A Word Connecting Card Game" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;Chain is a card game I designed in a group in Design Perspectives (ARTG1001) taught by Northeastern Professor Lee Moreau during the Fall 2023 semester. There were no rules on what our game had to be or how it was played, it just had to be accessible to most skill levels. My job in the group was to develop the rules for the game.&lt;/p&gt;
 &lt;p&gt;I took on the ruleset because prior to this project, a majority of my design work had been for a digital medium so I wanted to explore a physical medium and challenge myself with a new type of design. My groupmates worked on the visual design of the cards and the instructions, and we all contributed to the list of words we would put on the cards.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;To see the detailed design doc click the button below.&lt;/strong&gt; ⬇️&lt;/p&gt;
@@ -25,11 +25,11 @@
         </item>
         <item>
         <title>Alloc8 - Personal Finance Project</title>
-        <link>https://zmarino.com/posts/alloc8/</link>
+        <link>http://localhost:1313/posts/alloc8/</link>
         <pubDate>Fri, 01 Dec 2023 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/posts/alloc8/</guid>
-        <description>&lt;img src="https://zmarino.com/posts/alloc8/Alloc8%20logo.png" alt="Featured image of post Alloc8 - Personal Finance Project" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:1313/posts/alloc8/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/alloc8/Alloc8%20logo.png" alt="Featured image of post Alloc8 - Personal Finance Project" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;Alloc8 is a personal finance app that I created in ARTG 2400 Interaction Design Principles, taught by Professor Sofie Hodara, for my final project. We started in small groups and did user research together, interviewing our friends and family about their personal finance habits. From these user interviews we developed an idea of what users wanted from a personal finance app, and created our own seperate prodicts to solve this design issue. I ended up on a personal finance app that automatically allocates your paycheck into rent, budgets, spending goals, etc. as decided by the user, and the extra money left over can be used to either temporarily increase budgets or add to other goals.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;To see the detailed design doc click the button below.&lt;/strong&gt; ⬇️&lt;/p&gt;
 
@@ -41,10 +41,10 @@
         </item>
         <item>
         <title>The Ethics of Dark Patterns</title>
-        <link>https://zmarino.com/posts/ethics-of-dark-patterns/</link>
+        <link>http://localhost:1313/posts/ethics-of-dark-patterns/</link>
         <pubDate>Fri, 01 Dec 2023 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/posts/ethics-of-dark-patterns/</guid>
+        <guid>http://localhost:1313/posts/ethics-of-dark-patterns/</guid>
         <description>&lt;p&gt;The Ethics of Dark Patterns is a paper and final project I wrote for my Tech Regulations of Digital Platforms class (CS4973) taught by Northeastern Law professor Elettra Bieti. The paper discusses the conception and proliferation of dark patterns, and how they can potentially be regulated from both a legal and ethical standpoint.&lt;/p&gt;
 &lt;p&gt;Dark patterns are defined as instances where designers use their knowledge of human behavior (e.g., psychology) and the desires of end users to implement deceptive functionality that is not in the user’s best interest &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1145/3173574.3174108&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;(Gray et al., 2018, p.1)&lt;/a&gt;&lt;/p&gt;
@@ -58,11 +58,11 @@
         </item>
         <item>
         <title>MOHAI Native Stories</title>
-        <link>https://zmarino.com/posts/mohai-native-stories/</link>
+        <link>http://localhost:1313/posts/mohai-native-stories/</link>
         <pubDate>Thu, 01 Jun 2023 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/posts/mohai-native-stories/</guid>
-        <description>&lt;img src="https://zmarino.com/posts/mohai-native-stories/MOHAI.png" alt="Featured image of post MOHAI Native Stories" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:1313/posts/mohai-native-stories/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/mohai-native-stories/MOHAI.png" alt="Featured image of post MOHAI Native Stories" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;During the first half of Summer 2023, I did a program at Northeastern’s Seattle campus, where I took a user experience design class (CS4973 is the generic special topics class code). Throughout that class, we were tasked with a design project relating to the Museum of History and Industry (MOHAI) in the South Lake Union area (by the Amazon Headquarters).&lt;/p&gt;
 &lt;p&gt;In groups, our job was to propose a redesign of a certain part of the Indigenous Peoples Exhibit. My group focused on the Native American stories they had playing throughout the exhibit on screens. Our job was to reimagine how people interacted with these stories.
 We completed a full cycle of the design process using common brainstorming tools like Miro and prototyping tools like Balsmiq Wireframes and Axure RP. While Figma is the primary design tool I use, this project was a good way to learn other software and expand my skill set as a designer. It was also the first time I worked on a design project with a real client as compared to a made-up scenario for a class project.&lt;/p&gt;

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Figma on Zach Marino</title>
-        <link>https://zmarino.com/tags/figma/</link>
+        <link>http://localhost:1313/tags/figma/</link>
         <description>Recent content in Figma on Zach Marino</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 01 Dec 2023 17:16:35 -0400</lastBuildDate><atom:link href="https://zmarino.com/tags/figma/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 01 Dec 2023 17:16:35 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/figma/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Alloc8 - Personal Finance Project</title>
-        <link>https://zmarino.com/posts/alloc8/</link>
+        <link>http://localhost:1313/posts/alloc8/</link>
         <pubDate>Fri, 01 Dec 2023 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/posts/alloc8/</guid>
-        <description>&lt;img src="https://zmarino.com/posts/alloc8/Alloc8%20logo.png" alt="Featured image of post Alloc8 - Personal Finance Project" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:1313/posts/alloc8/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/alloc8/Alloc8%20logo.png" alt="Featured image of post Alloc8 - Personal Finance Project" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;Alloc8 is a personal finance app that I created in ARTG 2400 Interaction Design Principles, taught by Professor Sofie Hodara, for my final project. We started in small groups and did user research together, interviewing our friends and family about their personal finance habits. From these user interviews we developed an idea of what users wanted from a personal finance app, and created our own seperate prodicts to solve this design issue. I ended up on a personal finance app that automatically allocates your paycheck into rent, budgets, spending goals, etc. as decided by the user, and the extra money left over can be used to either temporarily increase budgets or add to other goals.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;To see the detailed design doc click the button below.&lt;/strong&gt; ⬇️&lt;/p&gt;
 
@@ -24,11 +24,11 @@
         </item>
         <item>
         <title>MOHAI Native Stories</title>
-        <link>https://zmarino.com/posts/mohai-native-stories/</link>
+        <link>http://localhost:1313/posts/mohai-native-stories/</link>
         <pubDate>Thu, 01 Jun 2023 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/posts/mohai-native-stories/</guid>
-        <description>&lt;img src="https://zmarino.com/posts/mohai-native-stories/MOHAI.png" alt="Featured image of post MOHAI Native Stories" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:1313/posts/mohai-native-stories/</guid>
+        <description>&lt;img src="http://localhost:1313/posts/mohai-native-stories/MOHAI.png" alt="Featured image of post MOHAI Native Stories" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;During the first half of Summer 2023, I did a program at Northeastern’s Seattle campus, where I took a user experience design class (CS4973 is the generic special topics class code). Throughout that class, we were tasked with a design project relating to the Museum of History and Industry (MOHAI) in the South Lake Union area (by the Amazon Headquarters).&lt;/p&gt;
 &lt;p&gt;In groups, our job was to propose a redesign of a certain part of the Indigenous Peoples Exhibit. My group focused on the Native American stories they had playing throughout the exhibit on screens. Our job was to reimagine how people interacted with these stories.
 We completed a full cycle of the design process using common brainstorming tools like Miro and prototyping tools like Balsmiq Wireframes and Axure RP. While Figma is the primary design tool I use, this project was a good way to learn other software and expand my skill set as a designer. It was also the first time I worked on a design project with a real client as compared to a made-up scenario for a class project.&lt;/p&gt;

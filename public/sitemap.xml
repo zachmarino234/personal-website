@@ -2,96 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zmarino.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/categories/featured-work/</loc>
+    <loc>http://localhost:1313/categories/featured-work/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-06-01T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-06-01T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/posts/chain/</loc>
+    <loc>http://localhost:1313/posts/chain/</loc>
     <lastmod>2023-12-02T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/categories/design/</loc>
+    <loc>http://localhost:1313/categories/design/</loc>
     <lastmod>2023-12-02T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/tags/game-design/</loc>
+    <loc>http://localhost:1313/tags/game-design/</loc>
     <lastmod>2023-12-02T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/tags/product-design/</loc>
+    <loc>http://localhost:1313/tags/product-design/</loc>
     <lastmod>2023-12-02T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-12-02T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/tags/ui/ux/</loc>
+    <loc>http://localhost:1313/tags/ui/ux/</loc>
     <lastmod>2023-12-02T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/tags/adobe-suite/</loc>
+    <loc>http://localhost:1313/tags/adobe-suite/</loc>
     <lastmod>2023-12-01T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/posts/alloc8/</loc>
+    <loc>http://localhost:1313/posts/alloc8/</loc>
     <lastmod>2023-12-01T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/tags/dark-patterns/</loc>
+    <loc>http://localhost:1313/tags/dark-patterns/</loc>
     <lastmod>2023-12-01T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/tags/figma/</loc>
+    <loc>http://localhost:1313/tags/figma/</loc>
     <lastmod>2023-12-01T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/tags/graphic-design/</loc>
+    <loc>http://localhost:1313/tags/graphic-design/</loc>
     <lastmod>2023-12-01T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/tags/legal-design/</loc>
+    <loc>http://localhost:1313/tags/legal-design/</loc>
     <lastmod>2023-12-01T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/categories/research/</loc>
+    <loc>http://localhost:1313/categories/research/</loc>
     <lastmod>2023-12-01T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/posts/ethics-of-dark-patterns/</loc>
+    <loc>http://localhost:1313/posts/ethics-of-dark-patterns/</loc>
     <lastmod>2023-12-01T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/categories/art/</loc>
+    <loc>http://localhost:1313/categories/art/</loc>
     <lastmod>2023-06-01T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/tags/exhibit-design/</loc>
+    <loc>http://localhost:1313/tags/exhibit-design/</loc>
     <lastmod>2023-06-01T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/posts/mohai-native-stories/</loc>
+    <loc>http://localhost:1313/posts/mohai-native-stories/</loc>
     <lastmod>2023-06-01T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/tags/typography/</loc>
+    <loc>http://localhost:1313/tags/typography/</loc>
     <lastmod>2023-06-01T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/posts/where-did-all-the-serif-typefaces-go/</loc>
+    <loc>http://localhost:1313/posts/where-did-all-the-serif-typefaces-go/</loc>
     <lastmod>2023-06-01T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/posts/two-designer-timeline/</loc>
+    <loc>http://localhost:1313/posts/two-designer-timeline/</loc>
     <lastmod>2023-05-05T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/categories/code/</loc>
+    <loc>http://localhost:1313/categories/code/</loc>
     <lastmod>2023-05-01T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/tags/html/css/</loc>
+    <loc>http://localhost:1313/tags/html/css/</loc>
     <lastmod>2023-05-01T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/tags/tactical-media/</loc>
+    <loc>http://localhost:1313/tags/tactical-media/</loc>
     <lastmod>2023-05-01T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/posts/tactical-media-project/</loc>
+    <loc>http://localhost:1313/posts/tactical-media-project/</loc>
     <lastmod>2023-05-01T17:16:35-04:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/pages/archives/</loc>
+    <loc>http://localhost:1313/pages/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/pages/</loc>
+    <loc>http://localhost:1313/pages/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zmarino.com/pages/about/</loc>
+    <loc>http://localhost:1313/pages/about/</loc>
   </url>
 </urlset>
