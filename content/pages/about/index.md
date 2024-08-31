@@ -20,4 +20,4 @@ Zach Marino is a second-year Computer Science and Design combined major at North
 
 Zach also has extensive research experience, and is studying UX privacy and dark patterns through an honors project at Northeastern’s College of Arts, Media and Design. He takes pride in approaching design through an interdisciplinary perspective thanks to his computer science background and intersectional legal research. He approaches his projects with an eye for detail that can only come from a unique perspective of multiple areas of interest. 
 
-In his spare time, Zach enjoys listening to music, cooking, and rooting for the Philadelphia Phillies!
+In his spare time, Zach enjoys photography, listening to music, cooking, and rooting for the Philadelphia Phillies!

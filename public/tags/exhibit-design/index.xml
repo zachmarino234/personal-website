@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Exhibit Design on Zach Marino</title>
-        <link>http://localhost:1313/tags/exhibit-design/</link>
+        <link>https://zmarino.com/tags/exhibit-design/</link>
         <description>Recent content in Exhibit Design on Zach Marino</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 01 Jun 2023 17:16:35 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/exhibit-design/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 01 Jun 2023 17:16:35 -0400</lastBuildDate><atom:link href="https://zmarino.com/tags/exhibit-design/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>MOHAI Native Stories</title>
-        <link>http://localhost:1313/posts/mohai-native-stories/</link>
+        <link>https://zmarino.com/posts/mohai-native-stories/</link>
         <pubDate>Thu, 01 Jun 2023 17:16:35 -0400</pubDate>
         
-        <guid>http://localhost:1313/posts/mohai-native-stories/</guid>
-        <description>&lt;img src="http://localhost:1313/posts/mohai-native-stories/MOHAI.png" alt="Featured image of post MOHAI Native Stories" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>https://zmarino.com/posts/mohai-native-stories/</guid>
+        <description>&lt;img src="https://zmarino.com/posts/mohai-native-stories/MOHAI.png" alt="Featured image of post MOHAI Native Stories" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;During the first half of Summer 2023, I did a program at Northeastern’s Seattle campus, where I took a user experience design class (CS4973 is the generic special topics class code). Throughout that class, we were tasked with a design project relating to the Museum of History and Industry (MOHAI) in the South Lake Union area (by the Amazon Headquarters).&lt;/p&gt;
 &lt;p&gt;In groups, our job was to propose a redesign of a certain part of the Indigenous Peoples Exhibit. My group focused on the Native American stories they had playing throughout the exhibit on screens. Our job was to reimagine how people interacted with these stories.
 We completed a full cycle of the design process using common brainstorming tools like Miro and prototyping tools like Balsmiq Wireframes and Axure RP. While Figma is the primary design tool I use, this project was a good way to learn other software and expand my skill set as a designer. It was also the first time I worked on a design project with a real client as compared to a made-up scenario for a class project.&lt;/p&gt;

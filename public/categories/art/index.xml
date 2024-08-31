@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Art on Zach Marino</title>
-        <link>http://localhost:1313/categories/art/</link>
+        <link>https://zmarino.com/categories/art/</link>
         <description>Recent content in Art on Zach Marino</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 01 Jun 2023 17:16:35 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/art/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 01 Jun 2023 17:16:35 -0400</lastBuildDate><atom:link href="https://zmarino.com/categories/art/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Where did all of the Serif Typefaces Go?</title>
-        <link>http://localhost:1313/posts/where-did-all-the-serif-typefaces-go/</link>
+        <link>https://zmarino.com/posts/where-did-all-the-serif-typefaces-go/</link>
         <pubDate>Thu, 01 Jun 2023 17:16:35 -0400</pubDate>
         
-        <guid>http://localhost:1313/posts/where-did-all-the-serif-typefaces-go/</guid>
-        <description>&lt;img src="http://localhost:1313/posts/where-did-all-the-serif-typefaces-go/Stripes.png" alt="Featured image of post Where did all of the Serif Typefaces Go?" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>https://zmarino.com/posts/where-did-all-the-serif-typefaces-go/</guid>
+        <description>&lt;img src="https://zmarino.com/posts/where-did-all-the-serif-typefaces-go/Stripes.png" alt="Featured image of post Where did all of the Serif Typefaces Go?" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;Stripes is the name of the first project I completed in Design Perspectives (ARTG1001) taught by Northeastern Professor Lee Moreau during the Fall 2023 semester. The goal of this project was to document when/where you see some chosen design element or motif, and create an infographic showcasing them. I decided on serif typefaces as my &amp;ldquo;stripes&amp;rdquo; and walked through Boston looking for any serif typefaces. Unfortunately, I found little to none. I decided instead of throwing in the towel and picking a different topic, I decided to approach this from the other end: &amp;ldquo;Where did all of the serif typefaces go?&amp;rdquo;&lt;/p&gt;
 &lt;h2 id=&#34;infographic-design&#34;&gt;Infographic Design
 &lt;/h2&gt;&lt;p&gt;Serif typefaces give off a sense of credibility, opulence, and history. Considering these themes, I wanted my infographic to feel similarly luxiorious. However, considering I am framing this infographic as an investigation, I wanted to give this infographic the feeling of an investigative journalist reporting their findings. What I ended up with is a nice mixture of both.&lt;/p&gt;
@@ -30,11 +30,11 @@
         </item>
         <item>
         <title>Two Designer Timeline</title>
-        <link>http://localhost:1313/posts/two-designer-timeline/</link>
+        <link>https://zmarino.com/posts/two-designer-timeline/</link>
         <pubDate>Fri, 05 May 2023 17:16:35 -0400</pubDate>
         
-        <guid>http://localhost:1313/posts/two-designer-timeline/</guid>
-        <description>&lt;img src="http://localhost:1313/posts/two-designer-timeline/2DT.png" alt="Featured image of post Two Designer Timeline" /&gt;
+        <guid>https://zmarino.com/posts/two-designer-timeline/</guid>
+        <description>&lt;img src="https://zmarino.com/posts/two-designer-timeline/2DT.png" alt="Featured image of post Two Designer Timeline" /&gt;
 &lt;a href=&#34;Two-Designer-Timeline.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
     View the Timeline
 &lt;/a&gt;
@@ -46,10 +46,10 @@
 &lt;h2 id=&#34;timeline-design&#34;&gt;Timeline Design
 &lt;/h2&gt;&lt;p&gt;The design of the timeline, while simple, conveys a lot of meaning. Following Loewys streamlining and Goldbergs simplified shapes and creative use of typography, I kept the timeline simple yet dynamic so that it is easy to read yet interesting stylistically. Besides the background, only three colors are used and they represent which events correspond to which designer or a general world event. This design language is kept consistent throughout to further ensure legibility for readers.&lt;/p&gt;
 &lt;p&gt;One of my biggest struggles on this project (besides the initial artists block) was how I laid out each page. I was cramming too much into each page so the layouts felt cramped and rigid. This is still something I am actively working on as a designer, but on this project I realized this issue on my first iteration of what would be the final draft and gave my elements some breathing room in later iterations.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/two-designer-timeline/2DT-old-example.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://zmarino.com/posts/two-designer-timeline/2DT-old-example.png&#34;
 	width=&#34;4380&#34;
 	height=&#34;3286&#34;
-	srcset=&#34;http://localhost:1313/posts/two-designer-timeline/2DT-old-example_hu12298975074249064036.png 480w, http://localhost:1313/posts/two-designer-timeline/2DT-old-example_hu3105550847671314470.png 1024w&#34;
+	srcset=&#34;https://zmarino.com/posts/two-designer-timeline/2DT-old-example_hu12298975074249064036.png 480w, https://zmarino.com/posts/two-designer-timeline/2DT-old-example_hu3105550847671314470.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Old Cramped Layout&#34;
@@ -60,10 +60,10 @@
 		data-flex-basis=&#34;319px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/two-designer-timeline/2DT-new-example.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://zmarino.com/posts/two-designer-timeline/2DT-new-example.png&#34;
 	width=&#34;4380&#34;
 	height=&#34;3286&#34;
-	srcset=&#34;http://localhost:1313/posts/two-designer-timeline/2DT-new-example_hu14658014747649385066.png 480w, http://localhost:1313/posts/two-designer-timeline/2DT-new-example_hu14971808811838690699.png 1024w&#34;
+	srcset=&#34;https://zmarino.com/posts/two-designer-timeline/2DT-new-example_hu14658014747649385066.png 480w, https://zmarino.com/posts/two-designer-timeline/2DT-new-example_hu14971808811838690699.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;New Spaced-Out Layout&#34;
@@ -85,11 +85,11 @@
         </item>
         <item>
         <title>The Cool Corner - Tactical Media Project</title>
-        <link>http://localhost:1313/posts/tactical-media-project/</link>
+        <link>https://zmarino.com/posts/tactical-media-project/</link>
         <pubDate>Mon, 01 May 2023 17:16:35 -0400</pubDate>
         
-        <guid>http://localhost:1313/posts/tactical-media-project/</guid>
-        <description>&lt;img src="http://localhost:1313/posts/tactical-media-project/Cool%20Corner.gif" alt="Featured image of post The Cool Corner - Tactical Media Project" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>https://zmarino.com/posts/tactical-media-project/</guid>
+        <description>&lt;img src="https://zmarino.com/posts/tactical-media-project/Cool%20Corner.gif" alt="Featured image of post The Cool Corner - Tactical Media Project" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;The Cool Corner is a Tactical Media project I did as my final project for my Experience and Interaction class (ARTF2223). Geert Lovink and David Garcia define Tactical Media as &amp;ldquo;what happens when the cheap &amp;lsquo;do it yourself&amp;rsquo; media, made possible by the revolution in consumer electronics and expanded forms of distribution (from public access cable to the internet), are exploited by groups and individuals who feel aggrieved by or excluded from the wider culture…&amp;rdquo; Essentially, Tactical Media is an art movement that combines art, experimental media, and political activism.
 I made my project about the closing of GeoCities from the view of an average user. The website is coded in HTML, CSS, and Javascript and is made to emulate how a GeoCities website could have looked at the time, as well as emulate how it would have felt to see your personal website break and disappear before you.
 This project was a major step forward for me because up till this point my projects had been pretty surface level. &lt;/p&gt;
