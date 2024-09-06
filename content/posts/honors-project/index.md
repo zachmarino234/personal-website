@@ -1,7 +1,7 @@
 +++
 title = '[IN PROGRESS] CAMD Honors Project'
 date = 2024-09-01T17:16:35-04:00
-draft = true
+draft = false
 toc = true
 description = "Investigating the Impacts of Design Thinking on the Journalistic Process"
 tags = [
