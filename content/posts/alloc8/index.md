@@ -24,3 +24,14 @@ Alloc8 is a personal finance app that I created in ARTG 2400 Interaction Design 
 **To see the detailed design doc click the button below.** ⬇️
 
 {{< button url="Alloc8-Process-Portfolio.pdf" text="Design Doc" class="btn-primary">}}
+
+## Prototype
+
+This is a big prototype so if it doesn't load [click here](https://www.figma.com/proto/x36tgb1HAslehbHKogT9vF/T---Zach-Marino-Financial-App-Usability-Audit?page-id=319%3A395&node-id=319-451&node-type=frame&viewport=272%2C187%2C0.33&t=8FuVtr3hwI3XD2Nm-9&scaling=scale-down&content-scaling=fixed&starting-point-node-id=319%3A451&show-proto-sidebar=1).
+
+{{< iframe 
+    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fx36tgb1HAslehbHKogT9vF%2FT---Zach-Marino-Financial-App-Usability-Audit%3Fpage-id%3D319%253A395%26node-id%3D319-451%26node-type%3Dframe%26viewport%3D272%252C187%252C0.33%26t%3DPCZ0zEqWN30ec9I6-1%26scaling%3Dscale-down%26content-scaling%3Dfixed%26starting-point-node-id%3D319%253A451%26show-proto-sidebar%3D1"
+    style="border: 1px solid rgba(0, 0, 0, 0.1);" 
+    width="100%" 
+    height="700" 
+>}}
