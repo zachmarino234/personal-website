@@ -38,7 +38,7 @@ With the diagram ready to go, we translated it into a DDL file which was set to 
 
 ### Backend API
 
-We built our API using Flask. Our professor provided the template for the project so all setup was done for us, we just needed to create routes and blueprints to connect the database to the frontend. We created a blueprint for each entity that required a route like job entries, users, etc. We also had a route for all of our aggregate queries. An alternative method to connect the database to the frontend would have been to create a couple of large routes and running any specific queries in the frontend using pandas but that would have bad practice. It is better to keep the database and frontend as separate as possible, and it was easier to just create extra routes or abstract already made routes.
+We built our API using Flask. Our professor provided the template for the project so all setup was done for us, we just needed to create routes and blueprints to connect the database to the frontend. We created a blueprint for each entity that required a route like job entries, users, etc. We also had a route for all of our aggregate queries. An alternative method to connect the database to the frontend would have been to create a couple of large routes and running any specific queries in the frontend using pandas but that would have been bad practice. It is better to keep the database and frontend as separate as possible, and it was easier to just create extra routes or abstract already made routes.
 
 ![Example of a GET route for the aggregate data page](backend.png)
 
