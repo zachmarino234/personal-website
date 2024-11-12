@@ -1,9 +1,9 @@
 +++
-title = '[IN PROGRESS] CAMD Honors Project'
+title = '[IN PROGRESS] Investigating the Impacts of Design Thinking on the Journalistic Process'
 date = 2024-09-01T17:16:35-04:00
 draft = false
 toc = true
-description = "Investigating the Impacts of Design Thinking on the Journalistic Process"
+description = "CAMD Directed Study"
 tags = [
     "UI/UX",
     "journalism"
@@ -13,7 +13,6 @@ categories = [
     "research",
     "featured work"
 ]
-image = "honors-project.svg"
 +++
 
 ## Proposal

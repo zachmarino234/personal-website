@@ -16,12 +16,12 @@ categories = [
 
 ## Introduction
 
-Late 2023, I accepted a co-op position as a product manager at the Boston Globe starting in January of 2024. I completed the six month co-op term then stayed on part time for another two months until August 2024. I worked primarily on the Boston.com team but also worked on other Globe projects like the corporate website. I also participated in innovation week, which is an initiative where all employees are able to propose an initative or address some pain point corporate/consumer pain point.   
+Late 2023, I accepted a co-op position as a product manager at the Boston Globe starting in January of 2024. I completed the six month co-op term then stayed on part time for another two months until August 2024. I worked primarily on the Boston.com team but also worked on other Globe projects like the corporate website. I also participated in innovation week, which is an initiative where all employees are invited to brainstorm and build a pitch to address pain points or flesh out creative ideas.
 
 ## What I learned
 
 
-The primary hard skills I learned were related to product management and design. I learned how to coordinate work on a project, ticket and prioritize issues, and take in stakeholder feedback to align our goals with the wider mission of the Boston Globe. I also learned how to collate and analyze key performance indicators, , and work within the Wordpress ecosystem.
+The primary hard skills I learned were related to product management and design. I learned how to coordinate work on a project, ticket and prioritize issues, and take in stakeholder feedback to align our goals with the wider editorial mission of the Boston Globe. I also learned how to collate and analyze key performance indicators, , and work within the Wordpress ecosystem.
 
 In terms of soft skills, I learned how to function and get work done in a corporate environment, stay on top of meetings, converse with stakeholders and coworkers, and 
 
