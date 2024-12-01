@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="">
-<title></title>
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Spreadsheet application project for CS4530 Fundamentals of Software Engineering">
+<title>Abacus</title>
 
-<link rel='canonical' href='http://localhost:1313/posts/abacus/'>
+<link rel='canonical' href='https://zmarino.com/posts/abacus/'>
 
-<link rel="stylesheet" href="/scss/style.min.0304c6baf04e01a8fe70693791cb744d56a3578a3120a8796cefc66825aa39c7.css"><meta property='og:title' content="">
-<meta property='og:description' content="">
-<meta property='og:url' content='http://localhost:1313/posts/abacus/'>
+<link rel="stylesheet" href="/scss/style.min.0304c6baf04e01a8fe70693791cb744d56a3578a3120a8796cefc66825aa39c7.css"><meta property='og:title' content="Abacus">
+<meta property='og:description' content="Spreadsheet application project for CS4530 Fundamentals of Software Engineering">
+<meta property='og:url' content='https://zmarino.com/posts/abacus/'>
 <meta property='og:site_name' content='Zach Marino'>
-<meta property='og:type' content='article'><meta property='article:section' content='Posts' />
-<meta name="twitter:title" content="">
-<meta name="twitter:description" content="">
+<meta property='og:type' content='article'><meta property='article:section' content='Posts' /><meta property='article:tag' content='react' /><meta property='article:tag' content='typescript' /><meta property='article:tag' content='figma' /><meta property='article:tag' content='UI/UX' /><meta property='article:published_time' content='2024-11-01T17:16:35-04:00'/><meta property='article:modified_time' content='2024-11-01T17:16:35-04:00'/><meta property='og:image' content='https://zmarino.com/posts/abacus/Abacus.webp' />
+<meta name="twitter:title" content="Abacus">
+<meta name="twitter:description" content="Spreadsheet application project for CS4530 Fundamentals of Software Engineering"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://zmarino.com/posts/abacus/Abacus.webp' />
     <link rel="shortcut icon" href="/favicon.ico" />
 
   
@@ -257,26 +258,118 @@
     </ol>
 </aside>
 
-    
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Table of contents</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#requirements">Requirements</a></li>
+    <li><a href="#spreadsheet-design">Spreadsheet design</a></li>
+    <li><a href="#frontend-architecture">Frontend Architecture</a>
+      <ul>
+        <li><a href="#selectedcellcontext">SelectedCellContext</a></li>
+        <li><a href="#gridcontext">GridContext</a></li>
+      </ul>
+    </li>
+    <li><a href="#layout">Layout</a></li>
+    <li><a href="#api">API</a></li>
+    <li><a href="#challenges--lessons-learned">Challenges &amp; Lessons Learned</a></li>
+  </ul>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
 
             <main class="main full-width">
-    <article class="main-article">
+    <article class="has-image main-article">
     <header class="article-header">
+        <div class="article-image">
+            <a href="/posts/abacus/">
+                <img src="/posts/abacus/Abacus_hu15268165750190298691.webp"
+                        srcset="/posts/abacus/Abacus_hu15268165750190298691.webp 800w, /posts/abacus/Abacus_hu15715979201547254823.webp 1600w"
+                        width="800" 
+                        height="266" 
+                        loading="lazy"
+                        alt="Featured image of post Abacus" />
+                
+            </a>
+        </div>
+    
 
     <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/code/" >
+                Code
+            </a>
+        
+            <a href="/categories/design/" >
+                Design
+            </a>
+        
+            <a href="/categories/featured-work/" >
+                Featured Work
+            </a>
+        
+    </header>
     
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/posts/abacus/"></a>
+            <a href="/posts/abacus/">Abacus</a>
         </h2>
     
+        
+        <h3 class="article-subtitle">
+            Spreadsheet application project for CS4530 Fundamentals of Software Engineering
+        </h3>
         
     </div>
 
     
     
     
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Nov 2024</time>
+            </div>
+        
+
+        
+    </footer>
     
 
     
@@ -287,12 +380,236 @@
     <section class="article-content" >
     
     
-    
+    <p>Abacus is a spreadsheet application I developed with Trey Olimpo and Oliver Orthwein in my Fundamentals of Software Engineering class. I handled all frontend and API development, while they handled the central spreadsheet logic. Our professor gave us a set of core requirements that we needed to implement, as well as having us develop and implement three additional features.</p>
+<h2 id="requirements">Requirements
+</h2><p><strong>We were given the following core requirements for our spreadsheet:</strong></p>
+<ul>
+<li>The spreadsheet must allow cells to contain numeric constants, string constants, cell
+references, range expressions, and formulas</li>
+<li>The spreadsheet must check for error conditions that may arise and adopt a consistent policy
+for handling these. It is up to you to determine what error conditions may occur!</li>
+<li>The spreadsheet must enable the user to insert a row, insert a column, delete a row, delete
+a column, and clear the contents of a cell. After performing an insert/delete operation,
+formulas should refer to the same cells that they referenced before the operation</li>
+<li>The project must produce a useful web-based user interface that is created using React</li>
+<li>The main logic for your application must be written in TypeScript</li>
+</ul>
+<p><strong>We chose the following three additional features for our spreadsheet:</strong></p>
+<ul>
+<li>
+<p>Cell styling: Ability to adjust cosmetic properties of a cell, including making text bold, italics, or strikethrough; Changing the color of the text or cell; and adding borders and different border styles.</p>
+</li>
+<li>
+<p>Undo/Redo function: Ability to revert to a previous spreadsheet version and vice versa.</p>
+</li>
+<li>
+<p>Import/Export function: Ability to import a CSV file and export a CSV or SQL INSERT file.</p>
+</li>
+</ul>
+<h2 id="spreadsheet-design">Spreadsheet design
+</h2><p><a class="link" href="https://www.figma.com/design/7fK9op1Ncvsx2v1PE3g8RF/Spreadsheet-Application-Prototype?node-id=92-8&amp;t=kt8Sh72wE7GaveoN-1"  target="_blank" rel="noopener"
+    >Link to full file</a></p>
+
+<iframe 
+    src="https://embed.figma.com/design/7fK9op1Ncvsx2v1PE3g8RF/Spreadsheet-Application-Prototype?node-id=92-9&amp;embed-host=share"
+    style="ZgotmplZ"
+    width="100%"
+    height="700"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
+
+<p>Since this was a coding project, we were not asked to do user testing. We weren&rsquo;t even asked to make anything more than a basic wireframe. I took the time to build out a full prototype because while I did lose out on coding time, I felt that doing this would significantly reduce the time it would take to flesh out the layout and style components down the line. This turned out to be true. Prototyping helped me figure out the structure to make the toolbar and formula bar responsive to different screens.</p>
+<p>The prototype also helped me flesh out the code structure for my buttons. The structure of creating a generic button component that accepted different SVG icons in Figma was implemented precisely in code and helped abstract a large amount of redundant code. <strong>This exercise in turning prototypes into code reinforces my belief that knowing how to code as a designer can significantly improve the coding experience for developers.</strong></p>
+<h2 id="frontend-architecture">Frontend Architecture
+</h2><p>We were free to create the frontend whichever way we wanted, so long as it rendered what the backend did. Most other teams decided to re-render their spreadsheet whenever a change occurred but we decided to take a different approach. Since our project had a large emphasis on individual cell customization, we wanted to make sure it was possible to re-render an individual cell when that was the only change. The whole spreadsheet would still need to be re-rendered when cell locations changed, but if the only change was the property of a single cell, then there was no need to re-render everything else.</p>
+<p>We implemented this by creating two React contexts, SelectedCellContext and GridContext.</p>
+<h3 id="selectedcellcontext">SelectedCellContext
+</h3><p>SelectedCellContext would track the currently selected cell and handle updates. Specifically, I had a function called updateSelectedCellProperty() which would take in a property and a value and pass that into a POST request which would update the property in the backend. updateSelectedCellProperty() would then increment a useState hook called setUpdateTrigger which would trigger the context to fetch the updated cell data via another function. That function would set the cell data in a useState hook and that hook is then passed into the instance of the cell.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-typescript" data-lang="typescript"><span style="display:flex;"><span><span style="color:#75715e">// SelectedCellContext.tsx
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">// Update specific properties of the selected cell
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">updateSelectedCellProperty</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">async</span> (
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">property</span>: <span style="color:#66d9ef">string</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">value</span>: <span style="color:#66d9ef">string</span> <span style="color:#f92672">|</span> <span style="color:#66d9ef">number</span> <span style="color:#f92672">|</span> <span style="color:#66d9ef">boolean</span>
+</span></span><span style="display:flex;"><span>)<span style="color:#f92672">:</span> <span style="color:#a6e22e">Promise</span>&lt;<span style="color:#f92672">void</span>&gt; <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">try</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">const</span> { <span style="color:#a6e22e">col</span>, <span style="color:#a6e22e">row</span> } <span style="color:#f92672">=</span> <span style="color:#a6e22e">selectedCell</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">response</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">await</span> <span style="color:#a6e22e">fetch</span>(
+</span></span><span style="display:flex;"><span>      <span style="color:#e6db74">`/api/cells/update/</span><span style="color:#e6db74">${</span><span style="color:#a6e22e">property</span><span style="color:#e6db74">}</span><span style="color:#e6db74">/</span><span style="color:#e6db74">${</span><span style="color:#a6e22e">col</span><span style="color:#e6db74">}</span><span style="color:#e6db74">/</span><span style="color:#e6db74">${</span><span style="color:#a6e22e">row</span><span style="color:#e6db74">}</span><span style="color:#e6db74">`</span>,
+</span></span><span style="display:flex;"><span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">method</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;POST&#34;</span>,
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">headers</span><span style="color:#f92672">:</span> { <span style="color:#e6db74">&#34;Content-Type&#34;</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;application/json&#34;</span> },
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">body</span>: <span style="color:#66d9ef">JSON.stringify</span>({ <span style="color:#a6e22e">value</span> }),
+</span></span><span style="display:flex;"><span> }
+</span></span><span style="display:flex;"><span> );
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">setUpdateTrigger</span>((<span style="color:#a6e22e">prev</span>) <span style="color:#f92672">=&gt;</span> <span style="color:#a6e22e">prev</span> <span style="color:#f92672">+</span> <span style="color:#ae81ff">1</span>); <span style="color:#75715e">// Trigger a re-fetch of the selected cell
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">fetchCellData</span>(); <span style="color:#75715e">// Re-fetch the cell data to reflect the change
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    <span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">log</span>(
+</span></span><span style="display:flex;"><span>      <span style="color:#e6db74">`Property </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">property</span><span style="color:#e6db74">}</span><span style="color:#e6db74"> of cell (</span><span style="color:#e6db74">${</span><span style="color:#a6e22e">col</span><span style="color:#e6db74">}</span><span style="color:#e6db74">, </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">row</span><span style="color:#e6db74">}</span><span style="color:#e6db74">) updated to </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">value</span><span style="color:#e6db74">}</span><span style="color:#e6db74">.`</span>
+</span></span><span style="display:flex;"><span> );
+</span></span><span style="display:flex;"><span> } <span style="color:#66d9ef">catch</span> (<span style="color:#a6e22e">error</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">error</span>(
+</span></span><span style="display:flex;"><span>      <span style="color:#e6db74">`Error updating property </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">property</span><span style="color:#e6db74">}</span><span style="color:#e6db74"> of selected cell:`</span>,
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">error</span>
+</span></span><span style="display:flex;"><span> );
+</span></span><span style="display:flex;"><span> }
+</span></span><span style="display:flex;"><span>};
+</span></span></code></pre></div><h3 id="gridcontext">GridContext
+</h3><p>Entire spreadsheet re-rendering is actually handled in the spreadsheet component itself using useMemo hooks, but we needed a way to track when to re-render. This was especially the case when the amount of rows and columns would change. GridContext would track this and GridDataProvider would support it too. The custom hook below would handle the initial render of rows and columns.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-typescript" data-lang="typescript"><span style="display:flex;"><span><span style="color:#75715e">// GridDataProvider.tsx
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">useEffect</span>(() <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">initializeGridDimensions</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">async</span> () <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">try</span> {
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e">// Fetch all cell data
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>      <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">response</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">await</span> <span style="color:#a6e22e">fetch</span>(<span style="color:#e6db74">&#34;/api/cells&#34;</span>);
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">if</span> (<span style="color:#f92672">!</span><span style="color:#a6e22e">response</span>.<span style="color:#a6e22e">ok</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">throw</span> <span style="color:#66d9ef">new</span> Error(<span style="color:#e6db74">&#34;Failed to fetch cell data&#34;</span>);
+</span></span><span style="display:flex;"><span> }
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">cellData</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">await</span> <span style="color:#a6e22e">response</span>.<span style="color:#a6e22e">json</span>();
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e">// Find the maximum column and row indices
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>      <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">maxCol</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>;
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">maxRow</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">cellData</span>.<span style="color:#a6e22e">forEach</span>((<span style="color:#a6e22e">cell</span><span style="color:#f92672">:</span> { <span style="color:#a6e22e">col</span>: <span style="color:#66d9ef">number</span>; <span style="color:#a6e22e">row</span>: <span style="color:#66d9ef">number</span> }) <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">maxCol</span> <span style="color:#f92672">=</span> Math.<span style="color:#a6e22e">max</span>(<span style="color:#a6e22e">maxCol</span>, <span style="color:#a6e22e">cell</span>.<span style="color:#a6e22e">col</span>);
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">maxRow</span> <span style="color:#f92672">=</span> Math.<span style="color:#a6e22e">max</span>(<span style="color:#a6e22e">maxRow</span>, <span style="color:#a6e22e">cell</span>.<span style="color:#a6e22e">row</span>);
+</span></span><span style="display:flex;"><span> });
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e">// Add some padding to the maximum dimensions
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>      <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">paddingCells</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">3</span>;
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">setColumns</span>(Math.<span style="color:#a6e22e">max</span>(<span style="color:#a6e22e">maxCol</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">paddingCells</span>, <span style="color:#ae81ff">5</span>)); <span style="color:#75715e">// Minimum of 5 columns
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>      <span style="color:#a6e22e">setRows</span>(Math.<span style="color:#a6e22e">max</span>(<span style="color:#a6e22e">maxRow</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">paddingCells</span>, <span style="color:#ae81ff">10</span>)); <span style="color:#75715e">// Minimum of 10 rows
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span> } <span style="color:#66d9ef">catch</span> (<span style="color:#a6e22e">error</span>) {
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">error</span>(<span style="color:#e6db74">&#34;Error initializing grid dimensions:&#34;</span>, <span style="color:#a6e22e">error</span>);
+</span></span><span style="display:flex;"><span>      <span style="color:#75715e">// Fall back to default dimensions
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>      <span style="color:#a6e22e">setColumns</span>(<span style="color:#ae81ff">5</span>);
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">setRows</span>(<span style="color:#ae81ff">10</span>);
+</span></span><span style="display:flex;"><span> }
+</span></span><span style="display:flex;"><span> };
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">initializeGridDimensions</span>();
+</span></span><span style="display:flex;"><span>}, [<span style="color:#a6e22e">setColumns</span>, <span style="color:#a6e22e">setRows</span>]);
+</span></span></code></pre></div><h2 id="layout">Layout
+</h2><p>As mentioned earlier, I used Figma to prototype the responsiveness of our prototype, specifically making the toolbar and formula bar responsive. I structured the toolbar in a way that mimicked how it would be done using HTML and flexboxes. At larger sizes, the toolbar is one long line but as the page gets smaller, it becomes two. Making the screen size any smaller would make the toolbar three lines which was not very user-friendly so I set a minimum width for the toolbar.</p>
+<p><img src="/posts/abacus/resize.gif"
+	width="1200"
+	height="123"
+	srcset="/posts/abacus/resize_hu4689593051436959987.gif 480w, /posts/abacus/resize_hu13955646133902915523.gif 1024w"
+	loading="lazy"
+	
+		alt="Header bar resizing"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="975"
+		data-flex-basis="2341px"
+	
+></p>
+<p>To position the header above the actual spreadsheet, I created a split-screen layout component that structured the page using flexboxes. Besides being the easiest approach, I did this with a dedicated layout component because it is best practice to have position logic separated from component logic to retain the reusable nature of components.</p>
+<p>App.tsx was the main entry point for the frontend and contained the calls to the primary contexts and layout components.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-typescript" data-lang="typescript"><span style="display:flex;"><span><span style="color:#75715e">// App.tsx
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">App() {</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> (
+</span></span><span style="display:flex;"><span> &lt;<span style="color:#f92672">GridProvider</span> <span style="color:#a6e22e">initialColumns</span><span style="color:#f92672">=</span>{<span style="color:#ae81ff">5</span>} <span style="color:#a6e22e">initialRows</span><span style="color:#f92672">=</span>{<span style="color:#ae81ff">10</span>}&gt;
+</span></span><span style="display:flex;"><span> &lt;<span style="color:#f92672">GridDataProvider</span>&gt;
+</span></span><span style="display:flex;"><span> &lt;<span style="color:#f92672">SelectedCellProvider</span>&gt;
+</span></span><span style="display:flex;"><span> &lt;<span style="color:#f92672">SplitScreen</span> 
+</span></span><span style="display:flex;"><span>            <span style="color:#a6e22e">child1</span><span style="color:#f92672">=</span>{&lt;<span style="color:#f92672">Header</span> /&gt;} 
+</span></span><span style="display:flex;"><span>            <span style="color:#a6e22e">child2</span><span style="color:#f92672">=</span>{&lt;<span style="color:#f92672">Spreadsheet</span> /&gt;} /&gt;
+</span></span><span style="display:flex;"><span> &lt;/<span style="color:#f92672">SelectedCellProvider</span>&gt;
+</span></span><span style="display:flex;"><span> &lt;/<span style="color:#f92672">GridDataProvider</span>&gt;
+</span></span><span style="display:flex;"><span> &lt;/<span style="color:#f92672">GridProvider</span>&gt;
+</span></span><span style="display:flex;"><span> );
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">export</span> <span style="color:#66d9ef">default</span> <span style="color:#a6e22e">App</span>;
+</span></span></code></pre></div><h2 id="api">API
+</h2><p>Our API was a pretty straightforward Express router setup. My partners created public-facing methods to access the Spreadsheet Model and the API calls those getter and setter methods. This separation between the backend and frontend lets us sanitize inputs and outputs, preventing errors in the backend or frontend from affecting each other. updateSelectedCellProperty() (from SelectedCellContext) would send POST requests to a large route that had a switch case for each possible cell property.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-typescript" data-lang="typescript"><span style="display:flex;"><span><span style="color:#75715e">// POST: Update a cell&#39;s property
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span><span style="color:#a6e22e">router</span>.<span style="color:#a6e22e">post</span>(<span style="color:#e6db74">&#39;/api/cells/update/:property/:col/:row&#39;</span>, (<span style="color:#a6e22e">req</span>: <span style="color:#66d9ef">Request</span>, <span style="color:#a6e22e">res</span>: <span style="color:#66d9ef">Response</span>) <span style="color:#f92672">=&gt;</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">const</span> { <span style="color:#a6e22e">property</span>, <span style="color:#a6e22e">col</span>, <span style="color:#a6e22e">row</span> } <span style="color:#f92672">=</span> <span style="color:#a6e22e">req</span>.<span style="color:#a6e22e">params</span>;
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">const</span> { <span style="color:#a6e22e">value</span> } <span style="color:#f92672">=</span> <span style="color:#a6e22e">req</span>.<span style="color:#a6e22e">body</span>; <span style="color:#75715e">// Use `value` instead of `body` for clarity
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">colIndex</span> <span style="color:#f92672">=</span> parseInt(<span style="color:#a6e22e">col</span>, <span style="color:#ae81ff">10</span>);
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">rowIndex</span> <span style="color:#f92672">=</span> parseInt(<span style="color:#a6e22e">row</span>, <span style="color:#ae81ff">10</span>);
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">try</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">switch</span> (<span style="color:#a6e22e">property</span>) {
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">case</span> <span style="color:#e6db74">&#39;content&#39;</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">ExampleSpreadsheet</span>.<span style="color:#a6e22e">setCellContent</span>(<span style="color:#a6e22e">colIndex</span>, <span style="color:#a6e22e">rowIndex</span>, <span style="color:#a6e22e">value</span>);
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">res</span>.<span style="color:#a6e22e">status</span>(<span style="color:#ae81ff">200</span>).<span style="color:#a6e22e">json</span>({ <span style="color:#a6e22e">message</span><span style="color:#f92672">:</span> <span style="color:#e6db74">`Cell content updated to </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">value</span><span style="color:#e6db74">}</span><span style="color:#e6db74"> successfully!`</span> });
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">break</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">case</span> <span style="color:#e6db74">&#39;bold&#39;</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">ExampleSpreadsheet</span>.<span style="color:#a6e22e">toggleCellBold</span>(<span style="color:#a6e22e">colIndex</span>, <span style="color:#a6e22e">rowIndex</span>);
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">res</span>.<span style="color:#a6e22e">status</span>(<span style="color:#ae81ff">200</span>).<span style="color:#a6e22e">json</span>({ <span style="color:#a6e22e">message</span><span style="color:#f92672">:</span> <span style="color:#e6db74">`Cell (</span><span style="color:#e6db74">${</span><span style="color:#a6e22e">col</span><span style="color:#e6db74">}</span><span style="color:#e6db74">, </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">row</span><span style="color:#e6db74">}</span><span style="color:#e6db74">) updated to bold.`</span> });
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">break</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">case</span> <span style="color:#e6db74">&#39;italic&#39;</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">ExampleSpreadsheet</span>.<span style="color:#a6e22e">toggleCellItalic</span>(<span style="color:#a6e22e">colIndex</span>, <span style="color:#a6e22e">rowIndex</span>);
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">res</span>.<span style="color:#a6e22e">status</span>(<span style="color:#ae81ff">200</span>).<span style="color:#a6e22e">json</span>({ <span style="color:#a6e22e">message</span><span style="color:#f92672">:</span> <span style="color:#e6db74">`Cell (</span><span style="color:#e6db74">${</span><span style="color:#a6e22e">col</span><span style="color:#e6db74">}</span><span style="color:#e6db74">, </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">row</span><span style="color:#e6db74">}</span><span style="color:#e6db74">) updated to italic.`</span> });
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">break</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">case</span> <span style="color:#e6db74">&#39;strikethrough&#39;</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">ExampleSpreadsheet</span>.<span style="color:#a6e22e">toggleCellStrikethrough</span>(<span style="color:#a6e22e">colIndex</span>, <span style="color:#a6e22e">rowIndex</span>);
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">res</span>.<span style="color:#a6e22e">status</span>(<span style="color:#ae81ff">200</span>).<span style="color:#a6e22e">json</span>({ <span style="color:#a6e22e">message</span><span style="color:#f92672">:</span> <span style="color:#e6db74">`Cell (</span><span style="color:#e6db74">${</span><span style="color:#a6e22e">col</span><span style="color:#e6db74">}</span><span style="color:#e6db74">, </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">row</span><span style="color:#e6db74">}</span><span style="color:#e6db74">) updated to strikethrough.`</span> });
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">case</span> <span style="color:#e6db74">&#39;font&#39;</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">ExampleSpreadsheet</span>.<span style="color:#a6e22e">setCellFont</span>(<span style="color:#a6e22e">colIndex</span>, <span style="color:#a6e22e">rowIndex</span>, <span style="color:#a6e22e">value</span>);
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">res</span>.<span style="color:#a6e22e">status</span>(<span style="color:#ae81ff">200</span>).<span style="color:#a6e22e">json</span>({ <span style="color:#a6e22e">message</span><span style="color:#f92672">:</span> <span style="color:#e6db74">`Cell (</span><span style="color:#e6db74">${</span><span style="color:#a6e22e">col</span><span style="color:#e6db74">}</span><span style="color:#e6db74">, </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">row</span><span style="color:#e6db74">}</span><span style="color:#e6db74">) font updated to </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">value</span><span style="color:#e6db74">}</span><span style="color:#e6db74">.`</span> });
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">break</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">case</span> <span style="color:#e6db74">&#39;fontSize&#39;</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">ExampleSpreadsheet</span>.<span style="color:#a6e22e">setCellFontSize</span>(<span style="color:#a6e22e">colIndex</span>, <span style="color:#a6e22e">rowIndex</span>, <span style="color:#a6e22e">value</span>);
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">res</span>.<span style="color:#a6e22e">status</span>(<span style="color:#ae81ff">200</span>).<span style="color:#a6e22e">json</span>({ <span style="color:#a6e22e">message</span><span style="color:#f92672">:</span> <span style="color:#e6db74">`Cell (</span><span style="color:#e6db74">${</span><span style="color:#a6e22e">col</span><span style="color:#e6db74">}</span><span style="color:#e6db74">, </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">row</span><span style="color:#e6db74">}</span><span style="color:#e6db74">) font size updated to </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">value</span><span style="color:#e6db74">}</span><span style="color:#e6db74">.`</span> });
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">break</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">case</span> <span style="color:#e6db74">&#39;fontColor&#39;</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">fontColorNumber</span> <span style="color:#f92672">=</span> parseInt(<span style="color:#a6e22e">value</span>.<span style="color:#a6e22e">slice</span>(<span style="color:#ae81ff">1</span>), <span style="color:#ae81ff">16</span>); <span style="color:#75715e">// Convert hex string to number
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>        <span style="color:#a6e22e">ExampleSpreadsheet</span>.<span style="color:#a6e22e">setCellFontColor</span>(<span style="color:#a6e22e">colIndex</span>, <span style="color:#a6e22e">rowIndex</span>, <span style="color:#a6e22e">fontColorNumber</span>);
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">res</span>.<span style="color:#a6e22e">status</span>(<span style="color:#ae81ff">200</span>).<span style="color:#a6e22e">json</span>({ <span style="color:#a6e22e">message</span><span style="color:#f92672">:</span> <span style="color:#e6db74">`Cell (</span><span style="color:#e6db74">${</span><span style="color:#a6e22e">col</span><span style="color:#e6db74">}</span><span style="color:#e6db74">, </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">row</span><span style="color:#e6db74">}</span><span style="color:#e6db74">) font color updated to </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">fontColorNumber</span><span style="color:#e6db74">}</span><span style="color:#e6db74">.`</span> });
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">break</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">case</span> <span style="color:#e6db74">&#39;cellColor&#39;</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">colorNumber</span> <span style="color:#f92672">=</span> parseInt(<span style="color:#a6e22e">value</span>.<span style="color:#a6e22e">slice</span>(<span style="color:#ae81ff">1</span>), <span style="color:#ae81ff">16</span>); <span style="color:#75715e">// Convert hex string to number
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>        <span style="color:#a6e22e">ExampleSpreadsheet</span>.<span style="color:#a6e22e">setCellColor</span>(<span style="color:#a6e22e">colIndex</span>, <span style="color:#a6e22e">rowIndex</span>, <span style="color:#a6e22e">colorNumber</span>);
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">res</span>.<span style="color:#a6e22e">status</span>(<span style="color:#ae81ff">200</span>).<span style="color:#a6e22e">json</span>({ <span style="color:#a6e22e">message</span><span style="color:#f92672">:</span> <span style="color:#e6db74">`Cell (</span><span style="color:#e6db74">${</span><span style="color:#a6e22e">col</span><span style="color:#e6db74">}</span><span style="color:#e6db74">, </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">row</span><span style="color:#e6db74">}</span><span style="color:#e6db74">) color updated to </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">colorNumber</span><span style="color:#e6db74">}</span><span style="color:#e6db74">.`</span> });
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">break</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">default</span><span style="color:#f92672">:</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">res</span>.<span style="color:#a6e22e">status</span>(<span style="color:#ae81ff">400</span>).<span style="color:#a6e22e">json</span>({ <span style="color:#a6e22e">error</span><span style="color:#f92672">:</span> <span style="color:#e6db74">`Invalid property: </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">property</span><span style="color:#e6db74">}</span><span style="color:#e6db74">`</span> });
+</span></span><span style="display:flex;"><span> }
+</span></span><span style="display:flex;"><span> } <span style="color:#66d9ef">catch</span> (<span style="color:#a6e22e">error</span>) {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">console</span>.<span style="color:#a6e22e">error</span>(<span style="color:#e6db74">`Error updating </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">property</span><span style="color:#e6db74">}</span><span style="color:#e6db74"> for cell (</span><span style="color:#e6db74">${</span><span style="color:#a6e22e">col</span><span style="color:#e6db74">}</span><span style="color:#e6db74">, </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">row</span><span style="color:#e6db74">}</span><span style="color:#e6db74">):`</span>, <span style="color:#a6e22e">error</span>);
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">res</span>.<span style="color:#a6e22e">status</span>(<span style="color:#ae81ff">500</span>).<span style="color:#a6e22e">json</span>({ <span style="color:#a6e22e">error</span><span style="color:#f92672">:</span> <span style="color:#e6db74">`Failed to update </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">property</span><span style="color:#e6db74">}</span><span style="color:#e6db74"> for cell (</span><span style="color:#e6db74">${</span><span style="color:#a6e22e">col</span><span style="color:#e6db74">}</span><span style="color:#e6db74">, </span><span style="color:#e6db74">${</span><span style="color:#a6e22e">row</span><span style="color:#e6db74">}</span><span style="color:#e6db74">).`</span> });
+</span></span><span style="display:flex;"><span> }
+</span></span><span style="display:flex;"><span>});
+</span></span></code></pre></div><h2 id="challenges--lessons-learned">Challenges &amp; Lessons Learned
+</h2><p>Before starting this project, my knowledge of React ended with component creation and styling. I could make and style components quickly but I was completely lost in adding any functionality. This project gave me a crash course in hooks, contexts, states, and even creating overlays. Since React was not a focus of the class besides basic interactions, I had to teach myself all of these new concepts.</p>
+<p>I think the quality of my code could certainly be improved. SelectedCellContext works fine for handling individual cells, but re-rendering the entire spreadsheet when cell locations changed was a bit sloppy. As well, clicking on a cell fetches that cell&rsquo;s data twice as it&rsquo;s used multiple times. If I had more time on this project, I probably could have consolidated these calls. The data we send and receive is already lower than other groups due to how we refresh individual cells but doubling the amount of calls would add up with larger spreadsheets. Despite these shortcomings, I&rsquo;m proud of how far I got using a previously unfamiliar system.</p>
+
 </section>
 
 
     <footer class="article-footer">
     
+    <section class="article-tags">
+        
+            <a href="/tags/react/">React</a>
+        
+            <a href="/tags/typescript/">Typescript</a>
+        
+            <a href="/tags/figma/">Figma</a>
+        
+            <a href="/tags/ui/ux/">UI/UX</a>
+        
+    </section>
+
 
     </footer>
 
@@ -303,6 +620,113 @@
     
 
     
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Related content</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="has-image">
+    <a href="/posts/mohai-native-stories/">
+        
+        
+            <div class="article-image">
+                <img src="/posts/mohai-native-stories/MOHAI.ffe21f180ac3932c3f16251a372ca7a3_hu17053095846273344727.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post MOHAI Native Stories"
+                        
+                        data-hash="md5-/&#43;IfGArDkyw/FiUaNyynow==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">MOHAI Native Stories</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/posts/honors-project/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">[IN PROGRESS] Investigating the Impacts of Design Thinking on the Journalistic Process</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/posts/chain/">
+        
+        
+            <div class="article-image">
+                <img src="/posts/chain/Chain%20logo.1f8ae4ebad54f0fb47df837d43a22341_hu2346807152624049430.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post Chain - A Word Connecting Card Game"
+                        
+                        data-hash="md5-H4rk661U8PtH34N9Q6IjQQ==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Chain - A Word Connecting Card Game</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/posts/alloc8/">
+        
+        
+            <div class="article-image">
+                <img src="/posts/alloc8/Alloc8%20logo.9209dc2698d1cef9bb9782e3ba41733c_hu12287983203127064730.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post Alloc8 - Personal Finance Project"
+                        
+                        data-hash="md5-kgncJpjRzvm7l4LjukFzPA==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Alloc8 - Personal Finance Project</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/posts/ethics-of-dark-patterns/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">The Ethics of Dark Patterns</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
 
      
     
