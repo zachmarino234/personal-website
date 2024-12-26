@@ -227,6 +227,294 @@ formulas should refer to the same cells that they referenced before the operatio
 </description>
         </item>
         <item>
+        <title>Pitch - CAMD Directed Study</title>
+        <link>https://zmarino.com/posts/pitch/</link>
+        <pubDate>Fri, 01 Nov 2024 17:16:35 -0400</pubDate>
+        
+        <guid>https://zmarino.com/posts/pitch/</guid>
+        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;Pitch is a design kit that provides journalists with a more structured avenue for brainstorming story ideas. I created this card deck for my CAMD directed study to answer the question of what it means to think like a designer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details about specific stages can be found in the presentation deck below&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;presentation-deck&#34;&gt;Presentation Deck
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.figma.com/deck/H1QxQ68WMjtA6wrn0egYWp/Pitch-Project-Presentation?node-id=1-587&amp;amp;t=hQcllipM7sx6iXAP-1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Link to Presentation&lt;/a&gt;
+
+&lt;iframe 
+    src=&#34;https://embed.figma.com/slides/H1QxQ68WMjtA6wrn0egYWp/Pitch-Project-Presentation?node-id=1-587&amp;amp;embed-host=share&#34;
+    style=&#34;ZgotmplZ&#34;
+    width=&#34;800&#34;
+    height=&#34;650&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;part-1-user-research-slide-2&#34;&gt;Part 1: User Research (Slide 2)
+&lt;/h2&gt;&lt;h3 id=&#34;user-interviews-slide-3&#34;&gt;User Interviews (Slide 3)
+&lt;/h3&gt;&lt;p&gt;I officially interviewed four people for this project: &lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/in/katrina-liu-1311a218b/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Katrina Liu&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/in/eli-cloutier-7249a6264/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Eli Cloutier&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://www.bostonglobe.com/about/staff-list/columnist/brian-mcgrory/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Brian McGrory&lt;/a&gt;, and &lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/in/turneremily/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Emily Turner&lt;/a&gt;. Katrina and Eli are new reporters while Brian and Emily are editors. Unofficially, I discussed ideas with &lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/in/emily-wyrwa220/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Emily Wyrwa&lt;/a&gt; (a future user tester) and I used the knowledge I gained as a product management co-op at the Boston Globe to support my research. I collated my interviews into three primary takeaways:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;There is a “sixth sense” for finding a good pitch. Finding a good pitch is an art, not a science, but it can still be trained.&lt;/li&gt;
+&lt;li&gt;There is no longer an appetite for record-only journalism in the media industry.&lt;/li&gt;
+&lt;li&gt;Innovation is needed in this traditional industry to become “relentlessly interesting.”&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I also gleaned a set of 12 pain points from my interviews that would influence future ideas for the project.&lt;/p&gt;
+&lt;h3 id=&#34;journey-map-slides-11&#34;&gt;Journey Map (Slides 11)
+&lt;/h3&gt;&lt;p&gt;With my takeaways and data from my user interviews, I combined that information with the journalistic process I observed at the Boston Globe to develop a Journey Map for the journalistic process. This journey map details each stage of the process from Ideation to publication, as well as what success looks like at each stage. This map helped me document the different stages of the process and where/what my solution could address.&lt;/p&gt;
+&lt;h2 id=&#34;part-2-contextual-research-slide-19&#34;&gt;Part 2: Contextual Research (Slide 19)
+&lt;/h2&gt;&lt;h3 id=&#34;what-is-a-design-kit-slide-20&#34;&gt;What is a design kit? (Slide 20)
+&lt;/h3&gt;&lt;p&gt;Before I could develop my solution, I first had to determine what a design kit was in the first place I looked at three existing design kits to get a better idea:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.trytriggers.com/shop-triggers-tools/p/storytelling-deck&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Storytelling Deck by triggers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nesta.org.uk/toolkit/diy-toolkit/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DIY Toolkit by Nesta, STBY, Quicksand&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://beautifultrouble.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Beautiful Trouble by Beautiful Trouble&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I identified some characteristics of each design kit that I could incorporate into my project, as well as general qualities that made the design kit function. I collated all of this research into the following definition:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A design kit is a collection of exercises, templates, and case studies to facilitate some kind of design process. That process is dictated by the subject matter of the design kit and can focus on a specific aspect of design or be a full walkthrough of the process. &lt;strong&gt;The goal of a design kit is to break up a large project into smaller, more focused chunks to arrive at a more quality solution.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I specifically conducted a &lt;strong&gt;comparative analysis (Slide 24)&lt;/strong&gt; on Beautiful Trouble to determine how they categorize and style their cards. I used Nielson&amp;rsquo;s 10 usability heuristics to better understand what made the cards work. I noted their use of color and iconography to determine category, and their use of a QR code to reduce the complexity of the card.&lt;/p&gt;
+&lt;h2 id=&#34;part-3-ideation-and-refinement-slide-26&#34;&gt;Part 3: Ideation and Refinement (Slide 26)
+&lt;/h2&gt;&lt;h3 id=&#34;how-might-we-statements-and-ideas-slide-27&#34;&gt;&amp;ldquo;How Might We&amp;rdquo; Statements and Ideas (Slide 27)
+&lt;/h3&gt;&lt;p&gt;With all of this research and the pain points I gathered from my user interviews, I put it all together to create some &amp;ldquo;How Might We&amp;rdquo; Statements. I wrote six and ended up focusing on three:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How might we help journalists brainstorm story ideas?&lt;/li&gt;
+&lt;li&gt;How might we identify the variables required for an engaging story?&lt;/li&gt;
+&lt;li&gt;How might we provide journalists with a toolkit for idea gathering?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;My project ultimately followed the third HMW statement but at the time of creating these statements, I brainstormed four potential ideas:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;(HMW 1) Brainstorming cards. Can either be a set of cards that guide what to look for in a story or different prompts that encourage brainstorming&lt;/li&gt;
+&lt;li&gt;(HMW 2) Data visualization of what articles are doing well via various metrics that can be tracked&lt;/li&gt;
+&lt;li&gt;(HMW 2) Making the already available data more accessible to journalists through a template-esque solution (with support from backend newsroom staff)&lt;/li&gt;
+&lt;li&gt;(HMW 3) An application that stores different resources, like links to social media, local newsletters, government data, etc.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;storyboard-slide-29&#34;&gt;Storyboard (Slide 29)
+&lt;/h3&gt;&lt;p&gt;The idea that seemed the most feasible based on my research and a discussion with a journalist friend was the brainstorming cards so I pushed forward and developed a storyboard. The storyboard features a user who is given a pitch by their editor and uses the cards to support the development of the story she is writing. This storyboard featured cards with content that extended past idea generation because it seemed doable at the time but user testing would determine this to not be as feasible as previously thought.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zmarino.com/posts/pitch/Storyboard.png&#34;
+	width=&#34;4968&#34;
+	height=&#34;3855&#34;
+	srcset=&#34;https://zmarino.com/posts/pitch/Storyboard_hu1111035182139425307.png 480w, https://zmarino.com/posts/pitch/Storyboard_hu3947238707249982926.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Storyboard&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;128&#34;
+		data-flex-basis=&#34;309px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;part-4-prototype-slide-30&#34;&gt;Part 4: Prototype (Slide 30)
+&lt;/h2&gt;&lt;h3 id=&#34;paper-prototype-slide-31&#34;&gt;Paper Prototype (Slide 31)
+&lt;/h3&gt;&lt;p&gt;I tested my paper prototype with Emily Wyrwa and the initial results were promising. We were able to develop a potential pitch in 17 minutes using the cards (as opposed to a usual time of what can be several hours). The potential pitch she developed was accepted by her editor but the subject of the idea unfortunately did not respond to an interview request. As mentioned earlier, at this point in the project I had cards with content that extended past idea generation. This prototype had a category for each step of the journalistic process but we determined that taking on every step of the process proved to be too wide of a net. Focusing on idea generation would make for a more focused design kit.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zmarino.com/posts/pitch/Paper_Prototype.png&#34;
+	width=&#34;4853&#34;
+	height=&#34;1366&#34;
+	srcset=&#34;https://zmarino.com/posts/pitch/Paper_Prototype_hu3970440304239393782.png 480w, https://zmarino.com/posts/pitch/Paper_Prototype_hu3137078838710667785.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Paper Prototype&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;355&#34;
+		data-flex-basis=&#34;852px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;mental-model-slide-32&#34;&gt;Mental Model (Slide 32)
+&lt;/h3&gt;&lt;p&gt;Now that I was focusing on just idea generation, I needed to flesh out how I would categorize the cards. Using my comparative analysis and observations from my user testing I developed the following mental model:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zmarino.com/posts/pitch/Mental_model.png&#34;
+	width=&#34;5334&#34;
+	height=&#34;3000&#34;
+	srcset=&#34;https://zmarino.com/posts/pitch/Mental_model_hu15615213972582595346.png 480w, https://zmarino.com/posts/pitch/Mental_model_hu17085612505141810332.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Mental model for card categories&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Game cards are essentially larger activities that can incorporate prompt and topic cards. Prompt cards are guided questions to kick off idea generation, and topic cards are evergreen topics that can serve as inspiration for new stories and styles.&lt;/p&gt;
+&lt;h3 id=&#34;low-fidelity-prototype-slide-33&#34;&gt;Low-Fidelity Prototype (Slide 33)
+&lt;/h3&gt;&lt;p&gt;My first prototype was in color to simulate the categories but overall, it was very simple. I printed them out on paper and then glued the sides to cardstock to give them more weight. The initial name idea I had was &amp;ldquo;Heartlines&amp;rdquo; which was a play on Headlines and the &amp;ldquo;heart&amp;rdquo; of human interest stories. It was a clever name on paper but sounded medical so it was scrapped.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zmarino.com/posts/pitch/lofi.png&#34;
+	width=&#34;5334&#34;
+	height=&#34;3000&#34;
+	srcset=&#34;https://zmarino.com/posts/pitch/lofi_hu16274405073906163262.png 480w, https://zmarino.com/posts/pitch/lofi_hu7333557012190627657.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Low-Fidelity Prototype&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;user-testing-slide-35&#34;&gt;User Testing (Slide 35)
+&lt;/h3&gt;&lt;p&gt;The card design was subject to change but the content of the cards was a separate entity that could be tested. I held a user testing session with &lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/in/emily-wyrwa220/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Emily Wyrwa&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/in/daisylevine/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Daisy Levine&lt;/a&gt;, and &lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/in/luke-scotchie/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Luke Scotchie&lt;/a&gt; to determine if the card content was successful as the initial paper prototype was. I noted down their words, actions, and body language to determine how they were interacting with my card deck. I also tracked quantitative measures like the time it took to develop a viable pitch to get hard statistics on the efficacy of my solution.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zmarino.com/posts/pitch/testing1.png&#34;
+	width=&#34;5334&#34;
+	height=&#34;3000&#34;
+	srcset=&#34;https://zmarino.com/posts/pitch/testing1_hu18038761564731532568.png 480w, https://zmarino.com/posts/pitch/testing1_hu2032392790531040199.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;
+&lt;img src=&#34;https://zmarino.com/posts/pitch/testing2.png&#34;
+	width=&#34;5334&#34;
+	height=&#34;3000&#34;
+	srcset=&#34;https://zmarino.com/posts/pitch/testing2_hu5430438561308159039.png 480w, https://zmarino.com/posts/pitch/testing2_hu14068756897299676757.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;As I was putting the final pieces together for this project, I was given updates on the pitches they developed during the session. Tester 1 is actively researching and interviewing for their reproductive health story, and Tester 2 is doing the same with theirs. Tester 1 also adapted an idea Tester 3 had &lt;a class=&#34;link&#34; href=&#34;https://www.bostonglobe.com/2024/12/20/arts/sweet-spot-boston-public-art-triennial-accelerator/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;into an article that was recently published in the Boston Globe.&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;moodboards-slide-38&#34;&gt;Moodboards (Slide 38)
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://zmarino.com/posts/pitch/newsroom.png&#34;
+	width=&#34;5334&#34;
+	height=&#34;3000&#34;
+	srcset=&#34;https://zmarino.com/posts/pitch/newsroom_hu17451753861388013153.png 480w, https://zmarino.com/posts/pitch/newsroom_hu10236729813811971610.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;
+&lt;img src=&#34;https://zmarino.com/posts/pitch/future-making.png&#34;
+	width=&#34;5334&#34;
+	height=&#34;3000&#34;
+	srcset=&#34;https://zmarino.com/posts/pitch/future-making_hu17326442148556745479.png 480w, https://zmarino.com/posts/pitch/future-making_hu15799820398250435108.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;After user testing, I created two mood boards to ideate on the aesthetics and vibe I wanted the visual design of my card deck to have. The first mood board was focused around the classic Newsroom vibe, with the rigid black and white structure of a print newspaper and the official and serious feeling of a large newsroom.&lt;/p&gt;
+&lt;p&gt;My second mood board was focused on innovation, big data, and abstract shapes. I named this &amp;ldquo;future-making&amp;rdquo;. This mood board was purposely very out there and fun to serve as a juxtaposition to the first mood board. The style I would eventually end up with is a mixture of both.&lt;/p&gt;
+&lt;h3 id=&#34;medium-fidelity-prototype-slide-40&#34;&gt;Medium-Fidelity Prototype (Slide 40)
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://zmarino.com/posts/pitch/medfi.png&#34;
+	width=&#34;5334&#34;
+	height=&#34;3000&#34;
+	srcset=&#34;https://zmarino.com/posts/pitch/medfi_hu2856224967432796689.png 480w, https://zmarino.com/posts/pitch/medfi_hu17636783534367830213.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;My medium-fidelity prototype was an improvement over my first prototype but still needed a lot of work. I liked the structure of information on the front side of the cards but I was having trouble with how I wanted the back side to look. I tried to mimic the look of a newspaper but it was too busy to see at a glance if it was the front or back of the card.&lt;/p&gt;
+&lt;h3 id=&#34;logo-design-slide-41&#34;&gt;Logo Design (Slide 41)
+&lt;/h3&gt;&lt;p&gt;I began prototyping the name and logo by rapidly identifying different concepts and objects related to journalism, ideation, and sources. I would then pick an interesting word or concept and go further in that direction to identify potential names. This is a similar approach to the &amp;ldquo;Rabbit Holes&amp;rdquo; card in my card deck. The three potential names I conceived during this brainstorming session were Roladeck, Sources, and Pitch Deck. Of the three, I went with Pitch Deck.&lt;/p&gt;
+&lt;p&gt;I started sketching out some potential logos that would be placed on the backside of a card. I showed these sketches to my roommates who liked the third idea. We decided it would look and sound better as just &amp;ldquo;Pitch&amp;rdquo; so we dropped the &amp;ldquo;Deck&amp;rdquo;. Saying &amp;ldquo;Pitch Deck&amp;rdquo; was implied anyway as Pitch is a card deck. I traced out a cleaner version of the logo and traced it digitally in Adobe Illustrator.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zmarino.com/posts/pitch/logo1.png&#34;
+	width=&#34;2556&#34;
+	height=&#34;2461&#34;
+	srcset=&#34;https://zmarino.com/posts/pitch/logo1_hu3764301767482443550.png 480w, https://zmarino.com/posts/pitch/logo1_hu288602223074819568.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;103&#34;
+		data-flex-basis=&#34;249px&#34;
+	
+&gt;
+&lt;img src=&#34;https://zmarino.com/posts/pitch/logo2.png&#34;
+	width=&#34;2321&#34;
+	height=&#34;1247&#34;
+	srcset=&#34;https://zmarino.com/posts/pitch/logo2_hu13223571995314491640.png 480w, https://zmarino.com/posts/pitch/logo2_hu11244157667211109188.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;186&#34;
+		data-flex-basis=&#34;446px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The final logo features a pen to represent the tool and job of a journalist, and the speech bubble represents the conversational nature of pitching an idea, as pitching an idea to your editor and vice versa is typically just a conversation.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zmarino.com/posts/pitch/logo3.png&#34;
+	width=&#34;5334&#34;
+	height=&#34;3000&#34;
+	srcset=&#34;https://zmarino.com/posts/pitch/logo3_hu12864129437234805431.png 480w, https://zmarino.com/posts/pitch/logo3_hu18356931956495977186.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;final-prototypewebsite&#34;&gt;Final Prototype/Website
+&lt;/h3&gt;&lt;p&gt;I determined from my user testing that the card content was successful, but there was still work to be done. The card content needed to be more clear and concise to fit the instructions on a single card without sacrificing comprehension of the instructions. I also realized that the size of a QR code scales with the amount of text so the example QR code I was using was much smaller than my actual QR codes would be. My solution was to both make the cards more concise but also increase the size of the cards. I switched from poker-sized cards to tarot-sized cards. I picked tarot size because it was big enough to fit the content without being so big that they were hard to use as cards. I improved the information structure of the medium fidelity prototype and ditched the icons as they felt tacky compared to just text and color. I replaced the back side of the card with a solid color and the logo. I also created an instruction and credit card.&lt;/p&gt;
+&lt;p&gt;The cards are a physical product but the easiest way to get my card deck to other people for use is digitally. I created a companion website to house all of the cards so that any journalist can use it for free. I coded the website using React and Typescript, deploying via Vite and Vercel. This website was beyond the scope of the project but something I wanted to work on myself to improve my coding skills. &lt;a class=&#34;link&#34; href=&#34;https://pitchjourno.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Click here to see the website.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zmarino.com/posts/pitch/homebg.svg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;part-5-reflection-slide-44&#34;&gt;Part 5: Reflection (Slide 44)
+&lt;/h2&gt;&lt;h3 id=&#34;impact&#34;&gt;Impact
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://zmarino.com/posts/pitch/impact.png&#34;
+	width=&#34;5334&#34;
+	height=&#34;3000&#34;
+	srcset=&#34;https://zmarino.com/posts/pitch/impact_hu10322464366337199659.png 480w, https://zmarino.com/posts/pitch/impact_hu6715612137139907691.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;what-does-it-mean-to-think-like-a-designer&#34;&gt;What does it mean to think like a designer?
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://zmarino.com/posts/pitch/designer.png&#34;
+	width=&#34;5334&#34;
+	height=&#34;3000&#34;
+	srcset=&#34;https://zmarino.com/posts/pitch/designer_hu7449231747101555486.png 480w, https://zmarino.com/posts/pitch/designer_hu8784289437680806793.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Alloc8 - Personal Finance Project</title>
         <link>https://zmarino.com/posts/alloc8/</link>
         <pubDate>Fri, 01 Dec 2023 17:16:35 -0400</pubDate>
