@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Legal Design on Zach Marino</title>
-        <link>https://zmarino.com/tags/legal-design/</link>
+        <link>http://localhost:1313/tags/legal-design/</link>
         <description>Recent content in Legal Design on Zach Marino</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 01 Dec 2023 17:16:35 -0400</lastBuildDate><atom:link href="https://zmarino.com/tags/legal-design/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 01 Dec 2023 17:16:35 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/legal-design/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>The Ethics of Dark Patterns</title>
-        <link>https://zmarino.com/posts/ethics-of-dark-patterns/</link>
+        <link>http://localhost:1313/posts/ethics-of-dark-patterns/</link>
         <pubDate>Fri, 01 Dec 2023 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/posts/ethics-of-dark-patterns/</guid>
+        <guid>http://localhost:1313/posts/ethics-of-dark-patterns/</guid>
         <description>&lt;p&gt;The Ethics of Dark Patterns is a paper and final project I wrote for my Tech Regulations of Digital Platforms class (CS4973) taught by Northeastern Law professor Elettra Bieti. The paper discusses the conception and proliferation of dark patterns, and how they can potentially be regulated from both a legal and ethical standpoint.&lt;/p&gt;
 &lt;p&gt;Dark patterns are defined as instances where designers use their knowledge of human behavior (e.g., psychology) and the desires of end users to implement deceptive functionality that is not in the user’s best interest &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1145/3173574.3174108&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;(Gray et al., 2018, p.1)&lt;/a&gt;&lt;/p&gt;

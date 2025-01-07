@@ -1,6 +1,6 @@
 +++
 title = 'Pitch - CAMD Directed Study'
-date = 2024-11-01T17:16:35-04:00
+date = 2024-12-01T17:16:35-04:00
 draft = false
 toc = true
 description = "Idea generation card deck for journalists"
@@ -14,7 +14,6 @@ categories = [
     "design",
     "featured work"
 ]
-
 +++
 
 ## Introduction

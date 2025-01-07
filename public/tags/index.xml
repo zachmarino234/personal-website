@@ -2,144 +2,144 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Zach Marino</title>
-        <link>https://zmarino.com/tags/</link>
+        <link>http://localhost:1313/tags/</link>
         <description>Recent content in Tags on Zach Marino</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 01 Nov 2024 17:16:35 -0400</lastBuildDate><atom:link href="https://zmarino.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 01 Dec 2024 17:16:35 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Adobe Suite</title>
-        <link>https://zmarino.com/tags/adobe-suite/</link>
-        <pubDate>Fri, 01 Nov 2024 17:16:35 -0400</pubDate>
+        <link>http://localhost:1313/tags/adobe-suite/</link>
+        <pubDate>Sun, 01 Dec 2024 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/tags/adobe-suite/</guid>
+        <guid>http://localhost:1313/tags/adobe-suite/</guid>
         <description></description>
         </item>
         <item>
         <title>Figma</title>
-        <link>https://zmarino.com/tags/figma/</link>
-        <pubDate>Fri, 01 Nov 2024 17:16:35 -0400</pubDate>
+        <link>http://localhost:1313/tags/figma/</link>
+        <pubDate>Sun, 01 Dec 2024 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/tags/figma/</guid>
+        <guid>http://localhost:1313/tags/figma/</guid>
         <description></description>
         </item>
         <item>
         <title>Graphic Design</title>
-        <link>https://zmarino.com/tags/graphic-design/</link>
-        <pubDate>Fri, 01 Nov 2024 17:16:35 -0400</pubDate>
+        <link>http://localhost:1313/tags/graphic-design/</link>
+        <pubDate>Sun, 01 Dec 2024 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/tags/graphic-design/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>React</title>
-        <link>https://zmarino.com/tags/react/</link>
-        <pubDate>Fri, 01 Nov 2024 17:16:35 -0400</pubDate>
-        
-        <guid>https://zmarino.com/tags/react/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Typescript</title>
-        <link>https://zmarino.com/tags/typescript/</link>
-        <pubDate>Fri, 01 Nov 2024 17:16:35 -0400</pubDate>
-        
-        <guid>https://zmarino.com/tags/typescript/</guid>
+        <guid>http://localhost:1313/tags/graphic-design/</guid>
         <description></description>
         </item>
         <item>
         <title>UI/UX</title>
-        <link>https://zmarino.com/tags/ui/ux/</link>
+        <link>http://localhost:1313/tags/ui/ux/</link>
+        <pubDate>Sun, 01 Dec 2024 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/tags/ui/ux/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>React</title>
+        <link>http://localhost:1313/tags/react/</link>
         <pubDate>Fri, 01 Nov 2024 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/tags/ui/ux/</guid>
+        <guid>http://localhost:1313/tags/react/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Typescript</title>
+        <link>http://localhost:1313/tags/typescript/</link>
+        <pubDate>Fri, 01 Nov 2024 17:16:35 -0400</pubDate>
+        
+        <guid>http://localhost:1313/tags/typescript/</guid>
         <description></description>
         </item>
         <item>
         <title>Flask</title>
-        <link>https://zmarino.com/tags/flask/</link>
+        <link>http://localhost:1313/tags/flask/</link>
         <pubDate>Thu, 15 Aug 2024 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/tags/flask/</guid>
+        <guid>http://localhost:1313/tags/flask/</guid>
         <description></description>
         </item>
         <item>
         <title>MySQL</title>
-        <link>https://zmarino.com/tags/mysql/</link>
+        <link>http://localhost:1313/tags/mysql/</link>
         <pubDate>Thu, 15 Aug 2024 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/tags/mysql/</guid>
+        <guid>http://localhost:1313/tags/mysql/</guid>
         <description></description>
         </item>
         <item>
         <title>Streamlit</title>
-        <link>https://zmarino.com/tags/streamlit/</link>
+        <link>http://localhost:1313/tags/streamlit/</link>
         <pubDate>Thu, 15 Aug 2024 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/tags/streamlit/</guid>
+        <guid>http://localhost:1313/tags/streamlit/</guid>
         <description></description>
         </item>
         <item>
         <title>Game Design</title>
-        <link>https://zmarino.com/tags/game-design/</link>
+        <link>http://localhost:1313/tags/game-design/</link>
         <pubDate>Sat, 02 Dec 2023 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/tags/game-design/</guid>
+        <guid>http://localhost:1313/tags/game-design/</guid>
         <description></description>
         </item>
         <item>
         <title>Product Design</title>
-        <link>https://zmarino.com/tags/product-design/</link>
+        <link>http://localhost:1313/tags/product-design/</link>
         <pubDate>Sat, 02 Dec 2023 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/tags/product-design/</guid>
+        <guid>http://localhost:1313/tags/product-design/</guid>
         <description></description>
         </item>
         <item>
         <title>Dark Patterns</title>
-        <link>https://zmarino.com/tags/dark-patterns/</link>
+        <link>http://localhost:1313/tags/dark-patterns/</link>
         <pubDate>Fri, 01 Dec 2023 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/tags/dark-patterns/</guid>
+        <guid>http://localhost:1313/tags/dark-patterns/</guid>
         <description></description>
         </item>
         <item>
         <title>Legal Design</title>
-        <link>https://zmarino.com/tags/legal-design/</link>
+        <link>http://localhost:1313/tags/legal-design/</link>
         <pubDate>Fri, 01 Dec 2023 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/tags/legal-design/</guid>
+        <guid>http://localhost:1313/tags/legal-design/</guid>
         <description></description>
         </item>
         <item>
         <title>Exhibit Design</title>
-        <link>https://zmarino.com/tags/exhibit-design/</link>
+        <link>http://localhost:1313/tags/exhibit-design/</link>
         <pubDate>Thu, 01 Jun 2023 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/tags/exhibit-design/</guid>
+        <guid>http://localhost:1313/tags/exhibit-design/</guid>
         <description></description>
         </item>
         <item>
         <title>Typography</title>
-        <link>https://zmarino.com/tags/typography/</link>
+        <link>http://localhost:1313/tags/typography/</link>
         <pubDate>Thu, 01 Jun 2023 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/tags/typography/</guid>
+        <guid>http://localhost:1313/tags/typography/</guid>
         <description></description>
         </item>
         <item>
         <title>HTML/CSS</title>
-        <link>https://zmarino.com/tags/html/css/</link>
+        <link>http://localhost:1313/tags/html/css/</link>
         <pubDate>Mon, 01 May 2023 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/tags/html/css/</guid>
+        <guid>http://localhost:1313/tags/html/css/</guid>
         <description></description>
         </item>
         <item>
         <title>Tactical Media</title>
-        <link>https://zmarino.com/tags/tactical-media/</link>
+        <link>http://localhost:1313/tags/tactical-media/</link>
         <pubDate>Mon, 01 May 2023 17:16:35 -0400</pubDate>
         
-        <guid>https://zmarino.com/tags/tactical-media/</guid>
+        <guid>http://localhost:1313/tags/tactical-media/</guid>
         <description></description>
         </item>
         
