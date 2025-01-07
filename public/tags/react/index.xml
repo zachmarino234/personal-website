@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>React on Zach Marino</title>
-        <link>http://localhost:1313/tags/react/</link>
+        <link>https://zmarino.com/tags/react/</link>
         <description>Recent content in React on Zach Marino</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 01 Nov 2024 17:16:35 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/react/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 01 Nov 2024 17:16:35 -0400</lastBuildDate><atom:link href="https://zmarino.com/tags/react/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Abacus</title>
-        <link>http://localhost:1313/posts/abacus/</link>
+        <link>https://zmarino.com/posts/abacus/</link>
         <pubDate>Fri, 01 Nov 2024 17:16:35 -0400</pubDate>
         
-        <guid>http://localhost:1313/posts/abacus/</guid>
-        <description>&lt;img src="http://localhost:1313/posts/abacus/Abacus.webp" alt="Featured image of post Abacus" /&gt;&lt;p&gt;Abacus is a spreadsheet application I developed with Trey Olimpo and Oliver Orthwein in my Fundamentals of Software Engineering class. I handled all frontend and API development, while they handled the central spreadsheet logic. Our professor gave us a set of core requirements that we needed to implement, as well as having us develop and implement three additional features.&lt;/p&gt;
+        <guid>https://zmarino.com/posts/abacus/</guid>
+        <description>&lt;img src="https://zmarino.com/posts/abacus/Abacus.webp" alt="Featured image of post Abacus" /&gt;&lt;p&gt;Abacus is a spreadsheet application I developed with Trey Olimpo and Oliver Orthwein in my Fundamentals of Software Engineering class. I handled all frontend and API development, while they handled the central spreadsheet logic. Our professor gave us a set of core requirements that we needed to implement, as well as having us develop and implement three additional features.&lt;/p&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;We were given the following core requirements for our spreadsheet:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -128,10 +128,10 @@ formulas should refer to the same cells that they referenced before the operatio
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}, [&lt;span style=&#34;color:#a6e22e&#34;&gt;setColumns&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;setRows&lt;/span&gt;]);
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;layout&#34;&gt;Layout
 &lt;/h2&gt;&lt;p&gt;As mentioned earlier, I used Figma to prototype the responsiveness of our prototype, specifically making the toolbar and formula bar responsive. I structured the toolbar in a way that mimicked how it would be done using HTML and flexboxes. At larger sizes, the toolbar is one long line but as the page gets smaller, it becomes two. Making the screen size any smaller would make the toolbar three lines which was not very user-friendly so I set a minimum width for the toolbar.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/abacus/resize.gif&#34;
+&lt;p&gt;&lt;img src=&#34;https://zmarino.com/posts/abacus/resize.gif&#34;
 	width=&#34;1200&#34;
 	height=&#34;123&#34;
-	srcset=&#34;http://localhost:1313/posts/abacus/resize_hu4689593051436959987.gif 480w, http://localhost:1313/posts/abacus/resize_hu13955646133902915523.gif 1024w&#34;
+	srcset=&#34;https://zmarino.com/posts/abacus/resize_hu4689593051436959987.gif 480w, https://zmarino.com/posts/abacus/resize_hu13955646133902915523.gif 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Header bar resizing&#34;
