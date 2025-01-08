@@ -14,6 +14,7 @@ categories = [
     "design",
     "featured work"
 ]
+image = "pitch.png"
 +++
 
 ## Introduction

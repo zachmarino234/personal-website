@@ -12,7 +12,7 @@
         <pubDate>Sun, 01 Dec 2024 17:16:35 -0400</pubDate>
         
         <guid>https://zmarino.com/posts/pitch/</guid>
-        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <description>&lt;img src="https://zmarino.com/posts/pitch/pitch.png" alt="Featured image of post Pitch - CAMD Directed Study" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;Pitch is a design kit that provides journalists with a more structured avenue for brainstorming story ideas. I created this card deck for my CAMD directed study to answer the question of what it means to think like a designer.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Details about specific stages can be found in the presentation deck below&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;presentation-deck&#34;&gt;Presentation Deck
@@ -257,7 +257,7 @@
 &lt;/h3&gt;&lt;p&gt;I determined from my user testing that the card content was successful, but there was still work to be done. The card content needed to be more clear and concise to fit the instructions on a single card without sacrificing comprehension of the instructions. I also realized that the size of a QR code scales with the amount of text so the example QR code I was using was much smaller than my actual QR codes would be. My solution was to both make the cards more concise but also increase the size of the cards. I switched from poker-sized cards to tarot-sized cards. I picked tarot size because it was big enough to fit the content without being so big that they were hard to use as cards. I improved the information structure of the medium fidelity prototype and ditched the icons as they felt tacky compared to just text and color. I replaced the back side of the card with a solid color and the logo. I also created an instruction and credit card.&lt;/p&gt;
 &lt;p&gt;The cards are a physical product but the easiest way to get my card deck to other people for use is digitally. I created a companion website to house all of the cards so that any journalist can use it for free. I coded the website using React and Typescript, deploying via Vite and Vercel. This website was beyond the scope of the project but something I wanted to work on myself to improve my coding skills. &lt;a class=&#34;link&#34; href=&#34;https://pitchjourno.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click here to see the website.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://zmarino.com/posts/pitch/homebg.svg&#34;
+&lt;p&gt;&lt;img src=&#34;https://zmarino.com/homebg.svg&#34;
 	
 	
 	
