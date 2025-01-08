@@ -10,8 +10,7 @@ tags = [
     "UI/UX",
 ]
 categories = [
-    "design",
-    "featured work"
+    "design"
 ]
 image = "Chain logo.png"
 +++
