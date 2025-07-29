@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Brand Design on Zach Marino</title>
+        <link>https://zmarino.com/tags/brand-design/</link>
+        <description>Recent content in Brand Design on Zach Marino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 01 May 2025 17:16:35 -0400</lastBuildDate><atom:link href="https://zmarino.com/tags/brand-design/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Catalog 8H</title>
+        <link>https://zmarino.com/posts/catalog-8h/</link>
+        <pubDate>Thu, 01 May 2025 17:16:35 -0400</pubDate>
+        
+        <guid>https://zmarino.com/posts/catalog-8h/</guid>
+        <description>&lt;img src="https://zmarino.com/posts/catalog-8h/catalog8H.png" alt="Featured image of post Catalog 8H" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;For my design degree capstone project, I created a social cataloging platform for SNL sketches called Catalog 8H. Catalog 8H lets you track sketches you&amp;rsquo;ve watched, rate them, leave comments, view the cast, and see what your friends and the SNL community think.&lt;/p&gt;
+&lt;h3 id=&#34;deliverables&#34;&gt;Deliverables
+&lt;/h3&gt;&lt;p&gt;My three deliverables for this project were a responsive and interactive prototype, component library, and brand system. I focused on a protoype because I wanted to improve my hard UI skills, and I created a component library because I was interested in design systems and wanted to try making one myself. I made a brand system because this semester I also took Brand and Identity Design and was really enjoying it, so I wanted to incorpate some kind of branding. We needed to identify an advisor for the project to serve as a gut check, and I chose my Brand and Identity Design professor as he was an SNL viewer and could advise me on the brand system.&lt;/p&gt;
+&lt;h3 id=&#34;general-thoughts&#34;&gt;General Thoughts
+&lt;/h3&gt;&lt;p&gt;Something new I tried in this project was layout constraints. While I stopped short of a full grid, I constrained myself to a consistent layout that was replicated throughout the website, giving it a cohesive feeling. The gutter between my content and the edge of the phone was determined by the Apple Human Interface Guidelines.&lt;/p&gt;
+&lt;p&gt;I decided to make a website instead of an app because I planned to code this at some point. A website would mean a single code base for mobile and desktop experiences, lowering the amount of resources required to produce the product. I also wanted to experiment with multi-page websites with API-populated content. I fleshed out a database system in STRAPI, but this extra part of the project on hold to work on other priorities. I hope to revisit this when my other projects are completed!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details about specific stages can be found in the presentation deck below&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;process-documentation&#34;&gt;Process Documentation
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.figma.com/slides/c4xSwJSRB2YpNyWXTUNr1a/Catalog-8H-Process-Documentation?node-id=1-348&amp;amp;t=Glg47F39whWofPNO-1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Link to Documentation&lt;/a&gt;
+
+&lt;iframe 
+    src=&#34;https://embed.figma.com/slides/c4xSwJSRB2YpNyWXTUNr1a/Catalog-8H-Process-Documentation?node-id=1-348&amp;amp;embed-host=share&#34;
+    style=&#34;ZgotmplZ&#34;
+    width=&#34;800&#34;
+    height=&#34;650&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -8,8 +8,7 @@ tags = [
     "product design"
 ]
 categories = [
-    "boston globe",
-    "featured work"
+    "boston globe"
 ]
 
 +++

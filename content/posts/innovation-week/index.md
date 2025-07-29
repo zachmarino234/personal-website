@@ -12,8 +12,7 @@ tags = [
 ]
 categories = [
     "boston globe",
-    "design",
-    "featured work"
+    "design"
 ]
 image = "Hack-Day-2022.jpeg"
 +++

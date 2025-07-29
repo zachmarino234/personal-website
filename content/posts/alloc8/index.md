@@ -11,8 +11,7 @@ tags = [
     "graphic design"
 ]
 categories = [
-    "design",
-    "featured work"
+    "design"
 ]
 image = "Alloc8 logo.png"
 +++

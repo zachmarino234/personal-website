@@ -7,6 +7,35 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zmarino.com/categories/featured-work/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Catalog 8H</title>
+        <link>https://zmarino.com/posts/catalog-8h/</link>
+        <pubDate>Thu, 01 May 2025 17:16:35 -0400</pubDate>
+        
+        <guid>https://zmarino.com/posts/catalog-8h/</guid>
+        <description>&lt;img src="https://zmarino.com/posts/catalog-8h/catalog8H.png" alt="Featured image of post Catalog 8H" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;For my design degree capstone project, I created a social cataloging platform for SNL sketches called Catalog 8H. Catalog 8H lets you track sketches you&amp;rsquo;ve watched, rate them, leave comments, view the cast, and see what your friends and the SNL community think.&lt;/p&gt;
+&lt;h3 id=&#34;deliverables&#34;&gt;Deliverables
+&lt;/h3&gt;&lt;p&gt;My three deliverables for this project were a responsive and interactive prototype, component library, and brand system. I focused on a protoype because I wanted to improve my hard UI skills, and I created a component library because I was interested in design systems and wanted to try making one myself. I made a brand system because this semester I also took Brand and Identity Design and was really enjoying it, so I wanted to incorpate some kind of branding. We needed to identify an advisor for the project to serve as a gut check, and I chose my Brand and Identity Design professor as he was an SNL viewer and could advise me on the brand system.&lt;/p&gt;
+&lt;h3 id=&#34;general-thoughts&#34;&gt;General Thoughts
+&lt;/h3&gt;&lt;p&gt;Something new I tried in this project was layout constraints. While I stopped short of a full grid, I constrained myself to a consistent layout that was replicated throughout the website, giving it a cohesive feeling. The gutter between my content and the edge of the phone was determined by the Apple Human Interface Guidelines.&lt;/p&gt;
+&lt;p&gt;I decided to make a website instead of an app because I planned to code this at some point. A website would mean a single code base for mobile and desktop experiences, lowering the amount of resources required to produce the product. I also wanted to experiment with multi-page websites with API-populated content. I fleshed out a database system in STRAPI, but this extra part of the project on hold to work on other priorities. I hope to revisit this when my other projects are completed!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Details about specific stages can be found in the presentation deck below&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;process-documentation&#34;&gt;Process Documentation
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.figma.com/slides/c4xSwJSRB2YpNyWXTUNr1a/Catalog-8H-Process-Documentation?node-id=1-348&amp;amp;t=Glg47F39whWofPNO-1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Link to Documentation&lt;/a&gt;
+
+&lt;iframe 
+    src=&#34;https://embed.figma.com/slides/c4xSwJSRB2YpNyWXTUNr1a/Catalog-8H-Process-Documentation?node-id=1-348&amp;amp;embed-host=share&#34;
+    style=&#34;ZgotmplZ&#34;
+    width=&#34;800&#34;
+    height=&#34;650&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Pitch - CAMD Directed Study</title>
         <link>https://zmarino.com/posts/pitch/</link>
         <pubDate>Sun, 01 Dec 2024 17:16:35 -0400</pubDate>
@@ -593,53 +622,6 @@ formulas should refer to the same cells that they referenced before the operatio
 &lt;p&gt;I didn&amp;rsquo;t want to spend too much time with the logo as it did not impact our grade but I still wanted to make something interesting (or at least better than the AI generated logos other teams were using). The &amp;ldquo;trace&amp;rdquo; in TalentTrace reminded me of a light/spotlight which is represented by the yellow streak that runs through the two T&amp;rsquo;s. The blue was chosen because it complemented well with the yellow when I was picking colors. The geometric look was used because we felt it looked professional without being generic.&lt;/p&gt;
 &lt;h2 id=&#34;conclusion&#34;&gt;Conclusion
 &lt;/h2&gt;&lt;p&gt;Prior to this class, my last computer science class was Algorithms which really killed a lot of my interest in computer science. This project brought my enthusiasm back. It was incredibly fun learning how to bring all of these different parts of software engineering together into a cohesive product. I feel like I finally see the full picture in regards to what I&amp;rsquo;ve been learning and it also made me realize I don&amp;rsquo;t want to do &lt;em&gt;just&lt;/em&gt; design or computer science, I want to do both. I still find backend development (specifically algorithms) intimidating but I didn&amp;rsquo;t expect to enjoy databases as much as I did.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Alloc8 - Personal Finance Project</title>
-        <link>https://zmarino.com/posts/alloc8/</link>
-        <pubDate>Fri, 01 Dec 2023 17:16:35 -0400</pubDate>
-        
-        <guid>https://zmarino.com/posts/alloc8/</guid>
-        <description>&lt;img src="https://zmarino.com/posts/alloc8/Alloc8%20logo.png" alt="Featured image of post Alloc8 - Personal Finance Project" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
-&lt;/h2&gt;&lt;p&gt;Alloc8 is a personal finance app that I created in ARTG 2400 Interaction Design Principles, taught by Professor Sofie Hodara, for my final project. We started in small groups and did user research together, interviewing our friends and family about their personal finance habits. From these user interviews we developed an idea of what users wanted from a personal finance app, and created our own seperate prodicts to solve this design issue. I ended up on a personal finance app that automatically allocates your paycheck into rent, budgets, spending goals, etc. as decided by the user, and the extra money left over can be used to either temporarily increase budgets or add to other goals.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;To see the detailed design doc click the button below.&lt;/strong&gt; ⬇️&lt;/p&gt;
-
-&lt;a href=&#34;Alloc8-Process-Portfolio.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
-    Design Doc
-&lt;/a&gt;
-  
-&lt;h2 id=&#34;prototype&#34;&gt;Prototype
-&lt;/h2&gt;&lt;p&gt;This is a big prototype so if it doesn&amp;rsquo;t load &lt;a class=&#34;link&#34; href=&#34;https://www.figma.com/proto/x36tgb1HAslehbHKogT9vF/T---Zach-Marino-Financial-App-Usability-Audit?page-id=319%3A395&amp;amp;node-id=319-451&amp;amp;node-type=frame&amp;amp;viewport=272%2C187%2C0.33&amp;amp;t=8FuVtr3hwI3XD2Nm-9&amp;amp;scaling=scale-down&amp;amp;content-scaling=fixed&amp;amp;starting-point-node-id=319%3A451&amp;amp;show-proto-sidebar=1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;click here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;iframe 
-    src=&#34;https://www.figma.com/embed?embed_host=share&amp;amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fx36tgb1HAslehbHKogT9vF%2FT---Zach-Marino-Financial-App-Usability-Audit%3Fpage-id%3D319%253A395%26node-id%3D319-451%26node-type%3Dframe%26viewport%3D272%252C187%252C0.33%26t%3DPCZ0zEqWN30ec9I6-1%26scaling%3Dscale-down%26content-scaling%3Dfixed%26starting-point-node-id%3D319%253A451%26show-proto-sidebar%3D1&#34;
-    style=&#34;ZgotmplZ&#34;
-    width=&#34;100%&#34;
-    height=&#34;700&#34;
-    frameborder=&#34;0&#34;
-    allowfullscreen&gt;
-&lt;/iframe&gt;
-
-</description>
-        </item>
-        <item>
-        <title>MOHAI Native Stories</title>
-        <link>https://zmarino.com/posts/mohai-native-stories/</link>
-        <pubDate>Thu, 01 Jun 2023 17:16:35 -0400</pubDate>
-        
-        <guid>https://zmarino.com/posts/mohai-native-stories/</guid>
-        <description>&lt;img src="https://zmarino.com/posts/mohai-native-stories/MOHAI.png" alt="Featured image of post MOHAI Native Stories" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
-&lt;/h2&gt;&lt;p&gt;During the first half of Summer 2023, I did a program at Northeastern’s Seattle campus, where I took a user experience design class (CS4973 is the generic special topics class code). Throughout that class, we were tasked with a design project relating to the Museum of History and Industry (MOHAI) in the South Lake Union area (by the Amazon Headquarters).&lt;/p&gt;
-&lt;p&gt;In groups, our job was to propose a redesign of a certain part of the Indigenous Peoples Exhibit. My group focused on the Native American stories they had playing throughout the exhibit on screens. Our job was to reimagine how people interacted with these stories.
-We completed a full cycle of the design process using common brainstorming tools like Miro and prototyping tools like Balsmiq Wireframes and Axure RP. While Figma is the primary design tool I use, this project was a good way to learn other software and expand my skill set as a designer. It was also the first time I worked on a design project with a real client as compared to a made-up scenario for a class project.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;To see the detailed design doc click the button below.&lt;/strong&gt; ⬇️&lt;/p&gt;
-
-&lt;a href=&#34;MOHAI-Process-Portfolio.pdf&#34; class=&#34;btn btn-primary&#34; target=&#34;_blank&#34;&gt;
-    Design Doc
-&lt;/a&gt;
-  
 </description>
         </item>
         
